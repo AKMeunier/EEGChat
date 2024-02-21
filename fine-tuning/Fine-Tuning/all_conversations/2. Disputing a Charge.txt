@@ -1,0 +1,15 @@
+
+A: Hello, is this the Smith residence?
+B: Yes it is, may I ask who is calling?
+A: This is your bank calling in regards to an overcharge on your credit card.
+B: I'm sorry, there must be some mistake.
+A: It says here that you charged over $500 on it yesterday.
+B: That can't be right; I have not used it in months!
+A: Are you saying you did not make that charge?
+B: That's exactly what I am saying.
+A: Looking closer, this charge was made in a different city.
+B: I am looking for my card now and I cannot find it.
+A: This calls for further investigation.
+B: I assure you I did not make the purchase.
+
+

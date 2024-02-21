@@ -1,0 +1,15 @@
+
+A: Welcome to Infinity Insurance.
+B: Hello. I am looking to buy insurance for my car.
+A: Well, you have come to the right place. Please, sit.
+B: I came in the other day, and I spoke with David.
+A: Oh, great. Did he take down all your information?
+B: Yes. He told me that I had to bring in this paper from the DMV.
+A: Great. This should go by real quick, then.
+B: David gave me a price yesterday, as well. He told me it would be $75.
+A: Yes, that is what we charge for first time drivers.
+B: Okay, I would like to make my first payment today.
+A: Good. How would you be paying: cash, debit, or credit card?
+B: I will be paying debit.
+
+

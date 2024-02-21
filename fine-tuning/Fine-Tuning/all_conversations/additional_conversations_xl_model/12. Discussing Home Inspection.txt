@@ -1,0 +1,15 @@
+
+A: This is Joseph Walters, the inspector.
+B: Hello, Joseph. I'm the buyer, Mrs. Smith
+A: Hello, Mrs. Smith. I've done a preliminary check of the property.
+B: That's great! What did you find?
+A: There are some issues with this home.
+B: For instance?
+A: Structurally, the house is sound.
+B: That's a good start, Joseph.
+A: The plumbing is substandard, the water heater is old, and the roof has issues.
+B: You're kidding, right?
+A: I wish I was. I'll know more in a couple of days.
+B: Okay, keep me informed.
+
+

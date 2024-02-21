@@ -1,0 +1,15 @@
+
+A: Good morning. How are you today?
+B: I'm doing well. Thank you.
+A: Are you here for our workshop today?
+B: Yes, as a matter of fact, I am.
+A: That's wonderful. This will help quite a bit.
+B: Will you be giving the workshop?
+A: Yes I will, with a couple of my colleagues.
+B: How many people are you expecting?
+A: Not many, unfortunately.
+B: What do you mean?
+A: Everyone should attend if possible. This makes filing so easy.
+B: I'll tell my friend Joseph. He's coming tomorrow.
+
+

@@ -1,0 +1,15 @@
+
+A: I'd like to order room service, please.
+B: What would you like to order?
+A: I'm really hungry. What are my choices?
+B: There should be a menu in your room.
+A: I have it in front of me. Can I have a cheeseburger deluxe with bacon and fries?
+B: Sure. How do you want your burger?
+A: Bloody, and I want my bacon extra crispy.
+B: Would you like anything to drink?
+A: Can I have a beer?
+B: Are you 21 or older?
+A: I'm way older than 21.
+B: We'll send that to your room in 30 minutes. You can pay upon delivery or we can charge your room.
+
+

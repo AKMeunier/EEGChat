@@ -1,0 +1,15 @@
+B: What can I do for you?
+A: Excuse me, I would like to return this.
+B: What seems to be the problem?
+A: It's not working correctly.
+B: When did it start having problems?
+A: As soon as I took it out of the box.
+B: I see. Would you like to exchange it?
+A: No, I think I'd just like my money back.
+B: Alright. Did you pay with a credit card?
+A: Yes, I paid with the store credit card.
+B: I'll return the purchase price to your card.
+A: Can I get any cash in return?
+B: No. You now have store credit in your card.
+
+

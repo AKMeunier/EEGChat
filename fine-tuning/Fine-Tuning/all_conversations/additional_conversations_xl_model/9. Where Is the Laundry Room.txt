@@ -1,0 +1,15 @@
+
+A: Hello, neighbor. I just moved into the apartments last week. I have a question.
+B: Sure. What do you need to know?
+A: I need to locate the laundry room. I have a load of clothes to wash.
+B: There is one downstairs.
+A: Thank you very much.
+B: There is also another located in the basement of the neighboring building.
+A: Do I have to pay at a front desk?
+B: No, the machines require exact change. I suggest you take quarters.
+A: Does the laundry room carry detergent?
+B: Yes, but I recommend you take your own. They're expensive.
+A: That's good to know. Thanks again and have a nice day.
+B: No problem. See you around.
+
+

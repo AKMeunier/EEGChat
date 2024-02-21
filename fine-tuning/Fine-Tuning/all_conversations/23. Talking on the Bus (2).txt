@@ -1,0 +1,15 @@
+
+A: Hi! Can I ask you a question?
+B: Sure. What do you need to know?
+A: Is this bus headed toward Monterey Park?
+B: Yes, it is. I'm going to Monterey Park, too.
+A: Thank you. I was just making sure. I'm new to the area.
+B: I've lived in this area for a while.
+A: I'm visiting friends. If you don't mind me asking, what are you going to do?
+B: I'm going to visit the markets and stores there.
+A: Nice. Do you recommend any restaurants in Monterey Park?
+B: You should try the Elite Restaurant. It's pretty good.
+A: I'll be sure to check it out. Here comes our stop. Have a nice day.
+B: Nice talking to you.
+
+

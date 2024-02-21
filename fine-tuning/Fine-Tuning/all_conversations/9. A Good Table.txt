@@ -1,0 +1,13 @@
+
+A: Is this table okay?
+B: No, it's too close to the kitchen door.
+A: How about this table?
+B: No, it's too close to the front door.
+A: This looks like a nice table.
+B: No, it's too close to the salad bar.
+A: Okay, I give up.
+B: Well, there is one good table.
+A: Great. Which one?
+B: That one. A group of eight just sat down at it.
+
+

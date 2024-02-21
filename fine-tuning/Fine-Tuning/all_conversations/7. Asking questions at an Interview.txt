@@ -1,0 +1,15 @@
+
+A: That concludes my part of the interview. Do you have any questions for me?
+B: Yes, thank you, Mr. Thompson, I do.
+A: Okay, what's on your mind?
+B: Is this a new position?
+A: Yes, we have created this new position recently.
+B: If you hire me, when do you want me to start?
+A: We plan to hire someone by the end of this month.
+B: Are there some times of the year that are busier than others?
+A: Yes. The summer months are very busy here.
+B: That's good to know. Does it matter if I take night classes?
+A: No. The hours for the job are in the daytime.
+B: Okay, I have no more questions. Thank you.
+
+

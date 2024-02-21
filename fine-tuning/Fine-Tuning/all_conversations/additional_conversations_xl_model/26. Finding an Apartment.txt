@@ -1,0 +1,16 @@
+
+A: Have you found an apartment?
+B: Yes, I have.
+A: That's great. Where is it at?
+B: It's in downtown. Have you ever been there?
+A: No, but I hear that area could be kind of sketchy.
+B: Don't worry. The apartment is in a pretty safe part of town.
+A: That's a relief. When are you moving?
+B: This weekend, Saturday.
+A: Have you hired any movers?
+B: No, I have not. Know any good movers?
+A: Sure, I'll give you the number to the movers that can help you.
+B: Gee, thanks. I appreciate the favor.
+A: You're welcome.
+
+

@@ -1,0 +1,15 @@
+
+A: There are some amenities missing from my hotel room.
+B: I'm so sorry to hear that. What is your room number and what's missing?
+A: I'm in room 143; there is no hairdryer.
+B: I can send one up to you right away.
+A: Great! So that I can use that hairdryer, can you also send up shampoo and conditioner?
+B: There should have been a basket in the bathroom with all that.
+A: Well, there isn't.
+B: Anything else I can send up to your room?
+A: Yes, I need an iron and an ironing board.
+B: Those aren't in your closet?
+A: Maybe they are invisible. I don't see them.
+B: I do apologize. I'll bring them personally.
+
+

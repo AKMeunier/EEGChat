@@ -1,0 +1,16 @@
+
+A: Hello, is this the Smith residence?
+A: Children, it's time to go to bed!
+B: But we're not sleepy yet!
+A: If you get into bed right now, I'll read you a fairytale.
+B: One with a princess and a prince?
+A: Of course, and a magical dragon, too.
+B: Why do we hear fairytales before bed?
+A: So that the magic from stories can grow while you're sleeping.
+B: What does it grow into?
+A: Why, magical dreams, of course!
+B: Please read us two tonight!
+A: Alright, but only if you sleep as soon as I'm done!
+B: We will. It's a promise!
+
+

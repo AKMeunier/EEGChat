@@ -1,0 +1,15 @@
+
+A: Let's go out to eat.
+B: That sounds like fun.
+A: Where do you want to go?
+B: Let me think a minute.
+A: I feel like Chinese.
+B: That sounds delicious.
+A: I know a good Chinese restaurant.
+B: How far away is it?
+A: It's only 10 minutes from here.
+B: Do we need reservations?
+A: Oh, no. We can walk right in.
+B: Let's go now. I'm hungry!
+
+

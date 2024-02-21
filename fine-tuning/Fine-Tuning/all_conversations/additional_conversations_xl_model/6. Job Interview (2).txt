@@ -1,0 +1,15 @@
+
+A: Hello, my name is Angela Davis.
+B: Good morning, Angela. I am Dick Williams. I'll be interviewing you today.
+A: Good morning, Mr. Williams.
+B: So, what do you know about our company, Angela?
+A: Well, I did a little Internet research last night, and I know the company is growing.
+B: Excellent! What else?
+A: I learned the company is a leading seller of office technology equipment.
+B: That's good, Angela. I'm happy to see you taking the time to do research.
+A: Thank you, Mr. Williams.
+B: I am going to recommend you for the job.
+A: Thanks again.
+B: Someone will contact you soon. Congratulations!
+
+

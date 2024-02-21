@@ -1,0 +1,13 @@
+B: Hello, how may I help you with?
+A: Hello, I would like to schedule an appointment to view the apartment.
+B: Sure thing. What is your name?
+A: My name is Lisa.
+B: Okay, Lisa. I have an appointment available at three o'clock.
+A: Three o'clock is just fine. On what day would that be?
+B: I have days available from Saturday through Monday.
+A: Can you do Friday instead?
+B: No, I'm sorry. My son is visiting on Friday.
+A: I understand. In that case, can I come the following day?
+B: Saturday? that's great! See you then.
+
+

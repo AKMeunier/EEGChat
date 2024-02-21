@@ -1,0 +1,13 @@
+
+A: Good Morning! EDD, how can I help you?
+B: Hello, I recently lost my job. Can I file for unemployment?
+A: Yes, you certainly can.
+B: How do I file a claim?
+A: The easiest way is to go online.
+B: All right, I will. What's the website.
+A: Just do a search for "EDD" and you will see the site.
+B: I will, but what if I need help?
+A: There's online help, but if you still need help, call back.
+B: Okay, I will. Thank you.
+
+

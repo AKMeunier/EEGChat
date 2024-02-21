@@ -1,0 +1,19 @@
+
+A: Top of the morning to you, Mr. Bus Driver.
+B: Hi, good morning. Where are you off to today?
+A: It's my first day of college.
+B: Wow, you must be very excited.
+A: You have no idea how much I am.
+B: Do you know how to get there?
+A: It's actually just a bus ride away.
+B: Are you planning on taking the bus routinely?
+A: Yes, I am. Why to spend money on gas when I could take the bus for less?
+B: You know, as a student you're eligible to receive a discount.
+A: No kidding. How much is the discount?
+B: Are you paying for a month pass?
+A: Yes, it cost fifty dollars.
+B: Well, with a student discount it would cost twenty dollars less.
+A: Thirty dollars for a month pass? That's quite a discount!
+B: You should take advantage of it.
+
+

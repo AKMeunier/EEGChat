@@ -1,0 +1,15 @@
+
+A: Is there a copy machine for guests?
+B: Yes, we have copy machines in our business center, which is to your right.
+A: I need to make a color copy.
+B: There are two black and white machines and one color copier.
+A: Is there a charge to use the machine?
+B: The cost per sheet on the color copy machine is 25 cents.
+A: Does the machine take credit cards?
+B: No, but I'd be happy to give you change if you have bills.
+A: I need to make four color copies, so give me change for a dollar.
+B: The machine also takes one dollar bills, so you don't need change.
+A: Is there usually a wait for the machines.
+B: Our business center is pretty empty right now, so you should have the run of the place.
+
+

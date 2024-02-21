@@ -1,0 +1,15 @@
+
+A: Is this your first time riding the bus?
+B: Yes, it is. How did you tell?
+A: The look on your face gave it away.
+B: I really do look that confused?
+A: I'm sorry to say so, but don't be embarrassed.
+B: You seem friendly. Would you mind answering a question?
+A: No, not at all. What's your question?
+B: I'm trying to get to the airport. Do you know where I should get off?
+A: This bus actually drops you off right in front of the airport.
+B: I know that it does. I've just forgotten on what street.
+A: The stop will say LAX Airport.
+B: Oh, really. That's pretty obvious.
+
+

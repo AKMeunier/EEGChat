@@ -1,0 +1,17 @@
+
+A: I need to buy a bus pass.
+B: Where do you need to go?
+A: I have to go to the Los Angeles Library.
+B: You need to buy a buss pass, that's for sure.
+A: I don't know where to buy it.
+B: You've never purchased a bus pass?
+A: I wouldn't be asking if I did.
+B: It's easy to buy a bus pass. All you have to do is get on the bus and ask for one,
+A: It's that easy? Are you sure?
+B: Don't you believe me?
+A: I do, but I thought it would be more complicated than that.
+B: There are other places where you can buy them.
+A: I think I'll just buy the pass on the bus.
+B: Alright, suit yourself. And you're welcome.
+
+

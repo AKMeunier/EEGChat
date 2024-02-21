@@ -1,0 +1,15 @@
+
+A: I felt the car's transmission was lagging a bit.
+B: Really? I haven't felt anything.
+A: Have you had the transmission checked?
+B: I took it for a tune-up the other day.
+A: The mechanic didn't say anything?
+B: Nope. He told me that the car was in tip-top shape.
+A: Would you mind if I took it to my mechanic? Just want to be sure.
+B: Sure, go ahead. Would you like to take it right now?
+A: Let me check with my mechanic.
+B: If he is busy, then you can come back tomorrow. I am free.
+A: He said he is free tomorrow. I guess I can come back tomorrow.
+B: Great. Feel free to call me at any time.
+
+

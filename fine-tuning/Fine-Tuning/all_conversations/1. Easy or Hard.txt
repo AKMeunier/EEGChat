@@ -1,0 +1,15 @@
+
+A: I don't know which class to register for.
+B: You should pick the class you need.
+A: I know I need a science class.
+B: I would take biology with Mr. Green.
+A: It's a challenging yet fun class.
+B: I don't like challenges.
+A: Why are you in college then?
+B: My mom forced me to enroll.
+A: You should go to a vocational school instead.
+B: I don't think you understand. My mom is scary.
+A: Okay, fine. I recommend Earth Science 125 with Mr. Anderson.
+B: Thanks for the recommendation!
+
+

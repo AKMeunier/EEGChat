@@ -1,0 +1,15 @@
+
+A: Excuse me. May I ask you a question?
+B: Sure. What do you need to know?
+A: Do you know where I can purchase a bus pass?
+B: Yes I do. There are several places where you can purchase them.
+A: Could you please tell me where?
+B: There is one on Norwalk, one in Long beach, and one in Santa Clarita.
+A: Do you know how to get to the one located on Norwalk?
+B: Here is a list of directions you can have.
+A: Can I keep it?
+B: Yes. You can keep it.
+A: Thank you very much. This is very helpful.
+B: No problem. I'm glad I could help.
+
+

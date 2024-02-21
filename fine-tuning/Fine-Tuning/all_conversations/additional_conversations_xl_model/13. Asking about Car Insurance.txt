@@ -1,0 +1,16 @@
+
+A: Hello, I wanted to ask you about car insurance prices.
+B: Sure thing. Please, have a seat.
+A: Thank you. I just bought my first car.
+B: Great, congratulations! What kind of car is it?
+A: It's a 1994 Oldsmobile Cutlass Supreme.
+B: Oh, so it's an older make.
+A: Yes, but it's in good condition. So, how much would the payments be?
+B: Depends. Have you been in any accidents?
+A: No, I have not.
+B: Have you gotten any driving tickets?
+A: Nope. That can affect the insurance rate?
+B: At times. Well, everything seems in order. You would have to pay $75 monthly.
+A: That sounds great.
+
+

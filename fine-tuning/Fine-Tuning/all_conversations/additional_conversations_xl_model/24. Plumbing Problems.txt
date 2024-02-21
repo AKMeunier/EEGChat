@@ -1,0 +1,15 @@
+
+A: Who do I have the pleasure to speak to this afternoon?
+B: Hello, my name is James.
+A: You've called your city's local plumber. What can I do for you?
+B: Thank you. I have a problem with my gas line.
+A: I specialize in gas line problems. You're in luck.
+B: I'm glad to hear that. Can you come to my home today?
+A: I'm booked today, sorry. Can I come tomorrow instead?
+B: Tomorrow works for me too. Is three o'clock fine?
+A: Yes, that hour is fine.
+B: What are your rates?
+A: I will provide you with an estimate free of charge when I see the problem.
+B: Alright, that sounds good. Thank you.
+
+

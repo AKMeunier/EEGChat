@@ -1,0 +1,19 @@
+
+A: Excuse me. Can you give me a minute of your time?
+B: Sure, I don't see why not.
+A: Thank you kindly. I'm pretty new in town, and I think I might be lost.
+B: Do you need to make a phone call?
+A: No, thank you. I just need some directions.
+B: Where are you trying to get to?
+A: I need to find my way back to Colorado Boulevard.
+B: Colorado Boulevard? Why, you're not far off from there.
+A: Can you point me towards the direction of that street?
+B: Gladly! You're going to walk straight down this street.
+A: Alright, straight down.
+B: Then you make a right after two blocks.
+A: Alright, I got that.
+B: Then a left at the next street, and you should be there.
+A: Thank you so much.
+B: You're welcome. Have a safe trip.
+
+

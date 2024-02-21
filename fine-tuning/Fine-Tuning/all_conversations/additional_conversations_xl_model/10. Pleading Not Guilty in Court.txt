@@ -1,0 +1,15 @@
+
+A: How do you plea to the charges?
+B: I plead not guilty.
+A: There are several witnesses that can testify to you being the robber.
+B: I understand that, Your Honour. But I did not do it.
+A: There is video surveillance that shows you robbing the victim.
+B: I would like to review that evidence, Your Honour.
+A: Your attorney can provide you with that evidence.
+B: I am sure I can prove my innocence once I see the footage.
+A: Would you like to present any of that evidence now?
+B: May I confer with my attorney?
+A: I can call a half hour recess.
+B: I won't need more time than that, Your Honour.
+
+

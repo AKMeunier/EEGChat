@@ -1,0 +1,15 @@
+B: Hi!
+A: Excuse me, but I'd like to make an appointment for next week.
+B: I can help with that. Did you try doing it over the phone or online?
+A: Yes, but it seemed so confusing.
+B: I know what you mean. They are working on it.
+A: Great. So, I wanted to come in sometime next week.
+B: How does Monday sound?
+A: Monday is no good. Is Wednesday okay?
+B: Yes, Wednesday works. We have these times available.
+A: I can come in at 10 a.m.
+B: Great. I need your name and phone number.
+A: My name is Christopher Clark and my phone number is (555) 323-2465
+B: Great. We will see you on Wednesday.
+
+

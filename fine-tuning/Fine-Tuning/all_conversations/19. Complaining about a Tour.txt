@@ -1,0 +1,15 @@
+B: Hello.
+A: I want to make a complaint about the all-day bus tour I took yesterday.
+B: I'm sorry you have a complaint.
+A: I actually have a few complaints.
+B: Please tell me what went wrong.
+A: We were stuck in traffic for an hour.
+B: Well, that's out of our control.
+A: The bus had no air conditioning.
+B: It was 60 degrees out yesterday though.
+A: I want a full refund.
+B: I can't give you a full refund since you enjoyed part of the tour.
+A: How about a partial refund then?
+B: I will give you a partial refund for the unsatisfactory tour.
+
+

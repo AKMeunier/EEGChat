@@ -1,0 +1,15 @@
+
+A: I'm sorry, but you can't borrow this book.
+B: What do you mean?
+A: You have not paid your late fees for your overdue books.
+B: I never had any overdue books!
+A: The computer doesn't lie.
+B: What books do I have late fees for?
+A: They're all math books, and according to the system, you still have them.
+B: Oh yeah, I do! I totally forgot about them and left them on my bed.
+A: Once you return them and pay the fee, you can borrow books again.
+B: But I really need to borrow those books now.
+A: I can put them on hold for you.
+B: Yes! You are the best.
+
+

@@ -1,0 +1,15 @@
+B: Hello!
+A: I'm calling because I need to reschedule my appointment.
+B: What was the original appointment date and time?
+A: I am supposed to come in on Thursday at 10 in the morning.
+B: Are you Tina Williams?
+A: That's me.
+B: When would you like to reschedule the appointment for?
+A: Can Dr. Harris see me next Tuesday at 10?
+B: He doesn't have an opening that day until noon.
+A: I'll have to come on my lunch break then.
+B: So shall I give you that appointment time?
+A: Yeah, put me down for that time.
+B: Just let us know 24 hours in advance if you need to cancel or reschedule.
+
+

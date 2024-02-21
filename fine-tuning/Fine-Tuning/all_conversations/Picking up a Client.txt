@@ -1,0 +1,6 @@
+Nancy:  Do you have some time this afternoon?
+Greg:  Yes.  Why?
+Nancy:  Can you pick our client up from the airport?
+Greg:  Sure.  What time?
+Nancy:  I need to check the email for the flight schedule.
+Greg:  Ok.  Just let me know his airline and arrival time.

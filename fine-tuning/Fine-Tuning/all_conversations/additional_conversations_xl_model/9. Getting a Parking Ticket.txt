@@ -1,0 +1,15 @@
+
+A: Sir, is this your car?
+B: Yes, are you giving me a ticket?
+A: Unfortunately, yes, I am. Read the sign.
+B: Which sign? I don't see a sign.
+A: The sign above you, sir.
+B: So, what? It says that we can't park on Mondays.
+A: Yes, it does. Although, it also says that you can't park without a permit.
+B: I didn't see that.
+A: Well, I'm sorry, but I still have to give you the ticket.
+B: Can't you just give me a warning?
+A: I'm sorry, but I already started writing the ticket.
+B: Fine. Give me the ticket. I'll fight it in court.
+
+

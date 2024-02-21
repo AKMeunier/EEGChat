@@ -1,0 +1,15 @@
+B: Hello, how can I help you?
+A: I'd like to make a reservation.
+B: Can you tell me what dates you would like to stay?
+A: I want to stay from April first through the third.
+B: That's two nights. What kind of room would you like?
+A: I'd like an economy room, please.
+B: Do you want two twin beds or one queen bed?
+A: I'll be staying in the room alone, so one queen bed is fine.
+B: That will be a total of $219. I need your credit card number.
+A: I have to pay right now?
+B: We need a credit card so we can hold your reservation.
+A: What if I need to cancel?
+B: You need to let us know 24 hours in advance, or else we charge you regardless.
+
+

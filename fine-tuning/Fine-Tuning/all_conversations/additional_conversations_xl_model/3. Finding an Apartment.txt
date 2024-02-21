@@ -1,0 +1,19 @@
+
+A: I found an apartment!
+B: That's great to hear. I congratulate you.
+A: Thank you. I'm so glad I finally found one.
+B: How did you find it?
+A: On the computer.
+B: How did you know to look there?
+A: A friend told me to look online.
+B: Where is the apartment?
+A: In Pasadena.
+B: That's a nice town. How big is the apartment?
+A: It's big enough for me.
+B: You should meet with a Rental Agent.
+A: What for?
+B: To get a professional opinion.
+A: Good idea. Know of any?
+B: You could talk to mine. Here's his business card.
+
+

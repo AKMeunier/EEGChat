@@ -1,0 +1,15 @@
+
+A: Open the door, police.
+B: What's going on?
+A: We have a warrant for your arrest.
+B: What's the charge?
+A: You are being arrested for robbery.
+B: I didn't rob anyone.
+A: Tell it to the judge. Turn around, please.
+B: I know my rights!
+A: You have the right to remain silent.
+B: How about my right to a lawyer?
+A: You can call your attorney after we process you.
+B: I'm not saying anything else until I speak to a lawyer.
+
+

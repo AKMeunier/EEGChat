@@ -1,0 +1,15 @@
+
+A: Hello, how can I help you?
+B: I'm calling about your delivery service.
+A: What seems to be the problem?
+B: The delivery was scheduled to arrive over an hour ago.
+A: Your cake has not arrived?
+B: No, and I am very disappointed.
+A: I'm sorry about that; we're a bit behind schedule.
+B: You know I needed that cake an hour ago.
+A: I understand. I'm sorry for the inconvenience.
+B: Will the delivery man be here soon?
+A: Yes, he will. And he will refund you the delivery fee.
+B: Alright. Thank you.
+
+

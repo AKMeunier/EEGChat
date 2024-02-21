@@ -1,0 +1,15 @@
+
+A: How many miles does the car have?
+B: It has 55,150 miles on it.
+A: Let's take it around the block, see what this baby has.
+B: Sure thing. Here are the keys.
+A: The air-conditioning doesn't work?
+B: No, it does not. It's an easy fix though.
+A: Okay. Are there any other problems with it?
+B: Everything should be in order.
+A: The power steering seems to need some fixing.
+B: Why do you say that?
+A: It's hard to turn the steering wheel when turning.
+B: You may take it to a mechanic to make sure.
+
+

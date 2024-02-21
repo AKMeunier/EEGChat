@@ -1,0 +1,15 @@
+
+A: Come inside my apartment! Make yourself feel at home.
+B: Thank you for letting me visit you today.
+A: It's always nice to meet extra tenants of the apartment.
+B: How do you like the apartment so far?
+A: I don't like it, I love it!
+B: I'm glad to hear that.
+A: Everybody I've met is super friendly, and the apartment is beautiful.
+B: I share the exact same thoughts.
+A: How long have you been a tenant here?
+B: Not long. I moved in a few months ago.
+A: Would you like a drink?
+B: Sure, I'm kind of thirsty.
+
+

@@ -1,0 +1,15 @@
+
+A: Wow, you really look terrible.
+B: Thanks a lot. I really feel awful.
+A: I'm a nurse ,so you should tell me your symptoms.
+B: Well, to begin with, my whole body aches.
+A: Have you taken your temperature to see if you have a fever?
+B: I have, and I'm running a slight fever.
+A: Sounds like you may have the flu.
+B: That's impossible because I got my flu shot.
+A: You can still get the flu even if you get vaccinated.
+B: Well, that makes getting the vaccine pointless.
+A: Not really, because you will probably get over it quickly.
+B: I'm going to make some tea and lie down.
+
+

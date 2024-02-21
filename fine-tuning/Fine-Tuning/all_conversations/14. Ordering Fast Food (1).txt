@@ -1,0 +1,15 @@
+B: Hi
+A: Hi! Can I get a pizza slice, please?
+B: Sure, is there anything else you'd like?
+A: I'll also take that bag of chips.
+B: What size drink would you like?
+A: A medium soft drink, please.
+B: Alright, you can go fill it at the fountain.
+A: Can I also buy this banana, please?
+B: Certainly. Will that be all?
+A: Yes, that's all! What is my total?
+B: Your total is $12.36.
+A: Thank you! Have a nice day.
+B: Thank you, you too.
+
+

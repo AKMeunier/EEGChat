@@ -1,0 +1,15 @@
+
+A: Good day, Thomas. We have an offer on your house.
+B: That's good! I hope it's better than the last one.
+A: It is, Thomas.
+B: Okay, let's hear it.
+A: The offer is $275,000.
+B: $275,000! That's $35,000 under the listing.
+A: I know, Thomas, but I think we should consider it.
+B: Why would I consider this price?
+A: We should counteroffer. I think we can work with this buyer.
+B: I won't take less than $300,000. You know that.
+A: Let's consider the counteroffer. The house has issues.
+B: Okay, I listen to you.
+
+

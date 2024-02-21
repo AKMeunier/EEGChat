@@ -1,0 +1,15 @@
+
+A: Thank you for coming so quickly.
+B: What seems to be the problem?
+A: All the channels suddenly stopped working.
+B: Did you make sure all the cables are plugged in?
+A: Yes, I checked and double checked them.
+B: There may be some kind of signal interference.
+A: Is there any way you can test that?
+B: Of course! Give me a moment, please.
+A: Do you know what the problem is?
+B: Not quite yet. So you can't change the channels?
+A: No, not at all.
+B: Well, you'll be able to once you change the remote batteries.
+
+

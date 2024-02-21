@@ -1,0 +1,15 @@
+
+A: Hi, Michelle. What are you up to?
+B: I'm looking for work online.
+A: Cool! What kind of job are you looking for?
+B: I need a part-time job, but I'm not doing too well.
+A: I'm pretty good at this. Can I help?
+B: You sure can.
+A: Okay, let's see. You can narrow your search on this site.
+B: How can I do that?
+A: Go to the "Advanced Search" button and click on it.
+B: I see it. Okay, now what?
+A: There are many options. You can search by city, by job, or pay.
+B: I see. Let me try searching by city. Thanks.
+
+

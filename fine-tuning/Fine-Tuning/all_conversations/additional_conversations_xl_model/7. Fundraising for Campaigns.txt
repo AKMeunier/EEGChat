@@ -1,0 +1,15 @@
+
+A: Would you be interested in donating to our candidate's campaign today?
+B: Maybe. Can you tell me more about why you are raising money?
+A: Sure! Campaign ads are expensive, so we want to raise money for TV ads.
+B: Some of those ads are so negative though.
+A: You're right, but the new ads are going to be positive.
+B: How much money are you trying to raise?
+A: We need a few thousand dollars
+B: Is this the only way you are raising money?
+A: No. We are doing phone banking and even having an event.
+B: What kind of event?
+A: We are hosting a lunch with the candidate.
+B: I may be interested in donating for that.
+
+

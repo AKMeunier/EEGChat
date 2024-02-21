@@ -1,0 +1,10 @@
+Store Clerk:  May I help you?
+Customer:  Yes.  I would like to exchange this sweater for another size. 
+Store clerk:  What size do you need?
+Customer:  I need a large.
+Store clerk:  Let me see if we have any more.
+Customer:  Ok.  Thank you.
+Store clerk:  We only have one more in stock.
+Customer:  Great!  I will take it.
+Store clerk:  Would you like to look at anything else?
+Customer:  No, thank you.  I would just like to exchange the sweater, please.

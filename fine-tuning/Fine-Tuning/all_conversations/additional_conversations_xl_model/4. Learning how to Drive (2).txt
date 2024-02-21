@@ -1,0 +1,15 @@
+
+A: Where should my hands be on the steering wheel?
+B: Your hands should be on 10 and 2.
+A: 10 and 2? What do you mean?
+B: Think of the steering wheel as a clock, and put your hands on 10 and 2.
+A: Oh, okay. What about my eyes? Should I be looking at the signs?
+B: Take a quick glance at the signs, but always look in front.
+A: When do I have to use my horn?
+B: You should use your horn for an emergency.
+A: What about if someone cuts me off?
+B: That's not an appropriate use of your horn.
+A: Am I ready to start driving yet?
+B: No, you need to learn some more of the basics.
+
+

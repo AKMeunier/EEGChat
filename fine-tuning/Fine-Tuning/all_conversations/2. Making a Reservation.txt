@@ -1,0 +1,15 @@
+
+A: Are you having dinner with us tonight?
+B: Yes I am. I'll be out of work soon.
+A: Okay, I'm thinking of the Pasta House.
+B: Oh, that place gets crowded. Maybe we should make reservations.
+A: That's a good idea. We waited an hour the last time.
+B: Yes. It is best to do that first.
+A: What time should we set the reservation for?
+B: Well, I'll be home by 6 o'clock.
+A: Okay, I'll make the call. I'll let you know.
+B: That's great, thanks. I hoped they're not booked.
+A: We should be able to get a table. I'll call right now.
+B: Don't worry about the time. We can eat later if we have to.
+
+

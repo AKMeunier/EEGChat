@@ -1,0 +1,15 @@
+
+A: Do you know what forms I need to file an unemployment claim?
+B: You can go to an EDD office or fill out a form on their website to open a claim.
+A: Is it really that simple?
+B: It sure is. It is easier to do online.
+A: Why would I want to do it online?
+B: It's faster, and you can do it from home, or wherever you have Internet access.
+A: Do you know the website?
+B: Yes, it's edd.ca.gov. It's easy to use.
+A: Then what do I do?
+B: You will have to find a link that says "Apply Here", and click on it.
+A: Is that all there is to it?
+B: That's it. You're good to go.
+
+

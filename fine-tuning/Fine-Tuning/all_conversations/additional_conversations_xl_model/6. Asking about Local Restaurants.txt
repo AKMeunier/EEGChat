@@ -1,0 +1,14 @@
+
+A: I sure am hungry.
+B: You should go out and eat.
+A: Do you know of any good places to eat that are around the local area?
+B: I know of a good couple.
+A: Alright, let's hear them. I'm starving.
+B: Let me ask you first, what are you in the mood for?
+A: Well, now that I think about it, I'm not really sure.
+B: Do you like Indian food?
+A: I have never tried it. It sounds interesting.
+B: It's delicious. I would recommend giving it a try.
+A: Indian food it is!
+
+

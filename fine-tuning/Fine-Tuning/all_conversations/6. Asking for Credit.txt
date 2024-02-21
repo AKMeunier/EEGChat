@@ -1,0 +1,15 @@
+
+A: Hello, how can I help you today?
+B: I am very upset with the quality of your service.
+A: I'm sorry, what seems to be the problem?
+B: My Internet service did not work for three days.
+A: My records say a technician visited your area yesterday?
+B: Yes, he installed a new modem.
+A: Did it solve the problem?
+B: Yes, but I was overcharged for Internet service.
+A: Sorry about that. I'll give you credit for the three days.
+B: I was sold a wireless service unavailable in my area.
+A: I see it here; we charged you $5 extra a month.
+B: Yes. Kindly return my money, please.
+
+

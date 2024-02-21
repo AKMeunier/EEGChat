@@ -1,0 +1,15 @@
+
+A: I have to go to Downtown Los Angeles today.
+B: What for? Are you visiting someone?
+A: No, I have an important job interview there.
+B: How are you planning on getting there?
+A: I would drive. but my car overheated last night.
+B: It looks like you're going to have to ride the bus.
+A: I haven't ridden the bus in years.
+B: I can help you out if you want.
+A: That would be great! What could you tell me about the bus system in Los Angeles?
+B: Speaking from experience, I could tell you how efficient it is.
+A: Do you take the bus to Los Angeles frequently?
+B: Only every week, Monday through Friday for the past two years.
+
+

@@ -1,0 +1,15 @@
+
+A: How may I help you?
+B: My computer is not letting me run JavaScript.
+A: That can easily be fixed.
+B: I've tried fixing it myself, but nothing worked.
+A: If you'd kindly go to our website, I'll fix the problem.
+B: I've logged in, now what?
+A: I will now access your computer from my location.
+B: Oh, I see what you are doing.
+A: That should just about fix the problem!
+B: Thank you so much! It was such an easy solution.
+A: I'm happy to help.
+B: Again, thank you and have a good day!
+
+

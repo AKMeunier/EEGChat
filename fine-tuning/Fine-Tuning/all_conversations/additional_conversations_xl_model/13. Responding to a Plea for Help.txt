@@ -1,0 +1,15 @@
+
+A: Hey, Richard, I could sure use your help.
+B: What is it, Jerry?
+A: I can't seem to land an interview.
+B: Have you applied to many places?
+A: Yes I have. I've sent out about 50 resumes.
+B: Did you include cover letters?
+A: On some I did, others, no.
+B: Well, that may be your problem. You should always include a cover letter.
+A: Really? Why?
+B: It shows you took the time to research the company. HR people like that.
+A: Okay, I will. Thanks.
+B: You're welcome. I think you will see more interest in your resume now.
+
+

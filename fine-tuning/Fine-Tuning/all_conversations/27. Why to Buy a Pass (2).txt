@@ -1,0 +1,15 @@
+
+A: I'm going to commute to school by bus this year.
+B: You should consider getting a bus pass.
+A: Why should I buy a bus pass?
+B: It's cheaper compared to manually paying every day.
+A: What kind of pass do you recommend I get?
+B: You should get the monthly pass.
+A: How much is a monthly pass?
+B: It is $64, but because you're a student, you can get a student discount.
+A: How much will it be with a student discount?
+B: It will be 35 dollars.
+A: Wow, that is cheap.
+B: You'll need your student ID.
+
+

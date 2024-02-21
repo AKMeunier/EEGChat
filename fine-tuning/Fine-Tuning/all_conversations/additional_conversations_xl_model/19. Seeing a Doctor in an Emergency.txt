@@ -1,0 +1,15 @@
+
+A: Help! I need the doctor immediately.
+B: What is the problem, sir?
+A: I think my wife had a stroke.
+B: What symptoms does she have?
+A: Look at her! She is awake, but in a catatonic state.
+B: How long has she been like this?
+A: She's been like this since this morning.
+B: She should be taken to the hospital.
+A: But this is the doctor's office. You can't help her?
+B: She needs to see an emergency specialist.
+A: What can you do for her?
+B: We are going to have her transferred to the nearest hospital.
+
+

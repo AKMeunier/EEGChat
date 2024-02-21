@@ -1,0 +1,15 @@
+
+A: I just read your proposal.
+B: What did you think about it?
+A: You definitely have some good ideas.
+B: Well, I worked on it very hard.
+A: I'm concerned about the cost, though.
+B: I thought you might be. Here's a cost analysis I ran.
+A: It says here that your proposal will pay for itself in a year.
+B: That's what I put in the report. 
+A: That's impressive. If this is true, I'm certain this can work.
+B: I'm quite sure it will work.
+A: You have done a good job. We'll discuss this at our next meeting.
+B: I appreciate your confidence in me.
+
+

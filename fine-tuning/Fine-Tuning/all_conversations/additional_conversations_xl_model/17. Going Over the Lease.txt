@@ -1,0 +1,15 @@
+
+A: I think I'm ready to sign the lease.
+B: Good! Let me just go over some key points.
+A: If you feel the need to do so, then go ahead.
+B: By signing this contract, you are agreeing to rent the apartment for a certain amount of time.
+A: Yes, I am aware of this. The lease is for one year.
+B: Are you ready to make that commitment?
+A: Yes, I am. What else?
+B: No pets in the apartment.
+A: Don't worry. I have no pets.
+B: There'll be a late fee of $20 if you don't pay on time.
+A: I have no problem with that. Where do I sign?
+B: Write your signature here, and your initials here and here.
+
+

@@ -1,0 +1,15 @@
+
+A: Hi, I am here to buy a bus pass.
+B: Alright. What kind are you interested in getting?
+A: I'm not sure. This is my first time.
+B: If you need a monthly pass, it will be sixty-four dollars.
+A: Is there anything cheaper than that?
+B: If you're a student, you get a discount.
+A: Yes. I am a student. How much will it be for a student discount?
+B: The student discount for a monthly pass is thirty-five dollars.
+A: Alright. I think I'll take that.
+B: First I'll need to see your student ID. Then you're all set.
+A: Here is my student ID. Thank you very much.
+B: Here you go. Have a nice day!
+
+

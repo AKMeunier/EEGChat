@@ -1,0 +1,15 @@
+
+A: Wow! Your books are over the due date by one month.
+B: It would have been longer if there wasn't a hold on my record.
+A: What kind of hold is on your record?
+B: A hold that won't let me go to the college football game.
+A: Oh, that's tough.
+B: Yeah. My girlfriend is actually a cheerleader, and so I have to go.
+A: You're not going to like what I'm going to say.
+B: What is it?
+A: I can't remove the hold even if you pay the overdue fee.
+B: Is it a technical error?
+A: I don't know! I just can't remove it!
+B: If my girlfriend breaks up with me, I'm blaming you.
+
+

@@ -1,0 +1,15 @@
+
+A: The apartment seems nice.
+B: It sure does.
+A: I just have a few questions to ask.
+B: About what?
+A: The apartment's location.
+B: Ask away. I'll try my best to answer them.
+A: Is the location in close proximity to the police department?
+B: Yes, it is. Only fifteen minutes away.
+A: What about the fire department?
+B: Not as close as the police department, but still not far.
+A: That's good to hear. Thanks for the answers.
+B: Don't mention it. It was my pleasure to help.
+
+

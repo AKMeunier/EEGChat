@@ -1,0 +1,15 @@
+
+A: Is there a gym in this hotel?
+B: Yes, the fitness center is located on the third floor.
+A: Is there a charge for me to use it?
+B: No, it's free to all of our guests.
+A: Wonderful! Can I go use it right now?
+B: Unfortunately, the gym is only open from 5 a.m. to 7 p.m. and it's 10 p.m. now.
+A: I guess I'll use it in the morning then.
+B: Just use your room key card to get in.
+A: Are there weight machines?
+B: The gym has weight machines, some treadmills, and some elliptical machines, too.
+A: What about a personal trainer?
+B: No, there are no personal trainers, just the machines.
+
+

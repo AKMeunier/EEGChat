@@ -1,0 +1,17 @@
+
+A: Everything seems to be in order. I'm ready to move into the apartment.
+B: Good, I welcome you to your new home.
+A: Is there anything else I should know before I start my move?
+B: Now that you mention it, yes, there is. It's the policy I have on pets.
+A: Do you allow any kind of pets?
+B: Only caged pets, I'm sorry to say. I hope this won't be a problem.
+A: Actually, I might prove to be problematic because I have a cat.
+B: There lies the problem. I'm sorry, but some of the other tenants have allergies to cats.
+A: That's too bad. I don't know what I'm going to do with the kitten.
+B: Perhaps you can give it away. Do you know of anyone who might want a cat?
+A: No, not really. What about you? Would you like a cat?
+B: Me? Well, I've never owned a pet before, let alone a cat.
+A: Cats make great companions. Please take mine. You would be doing me a huge favor.
+B: Alright, why not? Bring the little fellow next time.
+
+

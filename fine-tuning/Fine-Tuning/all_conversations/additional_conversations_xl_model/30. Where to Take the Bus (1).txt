@@ -1,0 +1,15 @@
+
+A: Excuse me. Can I have a minute of your time, please?
+B: Sure, what is it?
+A: I'm trying to take the bus to Downey, but I don't know where to take the bus.
+B: Downey? Let me think. Are you visiting relatives there?
+A: My girlfriend actually is the one I'm going to visit.
+B: That's sweet. I'm sorry, small talk helps me remember.
+A: In that case, let me ask where are you going to?
+B: I'm going to work. I take the bus there every day.
+A: You must save plenty of money on gas and insurance.
+B: Yup, I sure do. Wait, now I remember which bus takes you to Downey!
+A: Can you tell me where to take it?
+B: Sure. You need to take it on Florence Avenue in the city of Bell.
+
+

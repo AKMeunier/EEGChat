@@ -1,0 +1,15 @@
+
+A: Good morning, Peterson Industries.
+B: Hello, Betty. This is Roger.
+A: Hey, Roger. Where are you?
+B: I am stuck on the 60 freeway. I'm going to be late for work.
+A: Oh, no. Any traffic accident happened?
+B: I really don't know, Betty. All I know is that traffic is crawling.
+A: I will tell your supervisor you called in late.
+B: That would be great, but I could tell him myself.
+A: Well, normally that would be okay, but he's stuck in the same traffic jam.
+B: Oh no! Really? Okay.
+A: At least he'll know your excuse is true!
+B: Yes. Thank you. See you soon.
+
+

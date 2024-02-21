@@ -1,0 +1,15 @@
+
+A: Good morning. Welcome to ABC Technologies.
+B: Hi, good morning.
+A: How can I help you?
+B: I have an appointment with Mr. Rogers today.
+A: Oh, what time is that? I don't see it on his schedule.
+B: Well, there's no set time. I'm an old friend of his.
+A: Okay, let me call him. What is your name?
+B: I'm Tom Williams. He will know me.
+A: Just a minute, sir. Please take a seat.
+B: Thank you.
+A: Yes, Mr. Williams. Mr. Rogers will see you soon.
+B: That's wonderful. I know how busy he is. Thanks.
+
+

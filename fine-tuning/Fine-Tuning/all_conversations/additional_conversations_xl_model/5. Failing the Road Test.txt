@@ -1,0 +1,16 @@
+
+A: Unfortunately, you made a lot of mistakes. I cannot pass you.
+B: What mistakes did I make?
+A: You failed to put your turn signals when turning a corner.
+B: How many mistakes am I allowed?
+A: You are allowed three mistakes. You got five.
+B: Which other mistakes did I make?
+A: You hit the curb when you were parallel parking.
+B: I thought you might have missed that.
+A: No, you also didn't pay attention to some of the signs.
+B: Which signs are you talking about?
+A: You passed a yield sign, and you did not yield.
+B: Can I take the test again?
+A: You can take it again on Monday.
+
+

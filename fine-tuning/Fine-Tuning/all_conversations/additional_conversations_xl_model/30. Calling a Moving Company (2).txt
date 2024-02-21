@@ -1,0 +1,15 @@
+
+A: Hello, am I calling a moving company? My friend gave me you guys' number.
+B: Yes, this is indeed a moving company.
+A: That's a relief. I thought I was dialing the wrong number.
+B: No, you called the right place. Are you in need of any moving assistance?
+A: Yes, very much so. I'm moving in one week, and I need a pair of strong and able movers.
+B: We can provide you with that kind of help.
+A: That would be fantastic.
+B: Just give me your information and we'll have you set up in no time.
+A: Thank you very much.
+B: You're welcome. The movers we provide will help with all your belongings.
+A: That's good. I have a lot of stuff.
+B: Rest assure, that won't be a problem.
+
+

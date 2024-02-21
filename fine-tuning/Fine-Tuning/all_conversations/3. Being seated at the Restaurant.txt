@@ -1,0 +1,16 @@
+
+A: Welcome to the Silver Wok. How can I help you?
+B: Hello, I was hoping you have a table.
+A: We should be okay. How many guests?
+B: It's a birthday dinner. We have 12 guests.
+A: Oh, let me check if I have room for you.^ Your name, please.
+B: I'm Mr. Johnson. I would appreciate it.
+A: Okay, Mr. Johnson. I will have a table soon.
+B: Oh, that's wonderful.
+A: It's near the back. Is that okay?
+B: Yes, I suppose it is. I was hoping for window seating though.
+A: I can accommodate you, but it will take a little more time, sir.
+B: That's okay. We'll wait.
+
+
+ 

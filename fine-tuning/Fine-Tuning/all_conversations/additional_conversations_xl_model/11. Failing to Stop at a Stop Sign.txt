@@ -1,0 +1,15 @@
+
+A: Do you know why I stopped you?
+B: No, officer. Why?
+A: You failed to stop at the stop sign.
+B: I'm sorry, officer. I didn't see the stop sign.
+A: Have you had anything to drink?
+B: No, I have not. Do you need to see my license?
+A: Yes, I need your license and registration.
+B: Okay, here is my paperwork.
+A: I will be back. I need to check your background.
+B: Sure thing, officer.
+A: Everything seems to be in order. I'm going to give you a warning.
+B: Thank you, officer. I'll be more careful.
+
+

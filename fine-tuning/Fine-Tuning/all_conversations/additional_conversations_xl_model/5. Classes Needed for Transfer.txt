@@ -1,0 +1,15 @@
+
+A: You only need three more classes and you'll be ready to transfer.
+B: Which classes do I need?
+A: You need a history class, a physical science class, and a foreign language class.
+B: Which history class should I take?
+A: The one you're most interested in.
+B: I looked at the course listing, and there's nothing I'm interested in.
+A: In that case, go for the class you would be the least bored of.
+B: I guess I could take European history.
+A: There you go! How about the other classes you need?
+B: I think I'll take physics and French.
+A: I'm glad you know what to take! 
+B: Me too. Careful planning is part of what makes up a successful student!
+
+

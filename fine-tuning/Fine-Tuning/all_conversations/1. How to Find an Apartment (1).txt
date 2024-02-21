@@ -1,0 +1,17 @@
+
+A: Can you help me find an apartment?
+B: Sure, I would be happy to help.
+A: I'm having trouble starting my search.
+B: I would try driving around the neighborhood, and looking for any signs that say RENT.
+A: That's a good start. Thank you.
+B: Don't mention it.
+A: Do you have any other advice you can offer?
+B: Yes. Try searching on the Internet for apartments.
+A: The Internet? Are you sure?
+B: The Internet is a great place for people to sell and buy all sorts of things.
+A: Even renting out apartments?
+B: Yes, even that. Just be sure to always be safe in all transactions.
+A: Thank you for your help.
+B: You're welcome.
+
+

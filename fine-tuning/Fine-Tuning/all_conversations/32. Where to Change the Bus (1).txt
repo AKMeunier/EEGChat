@@ -1,0 +1,17 @@
+
+A: You seem a little lost. Can I be of some assistance?
+B: That would be nice of you. I just have one question.
+A: You can ask as many as you want.
+B: I just need to know where to change buses.
+A: Well, where are you going? I need to know that.
+B: I'm going to Beverly Hills.
+A: In that case, you need to change buses in a few minutes.
+B: What bus do I need to change to?
+A: You're going to get off this one and get on Line 720.
+B: That bus takes me to Beverly Hills?
+A: Yes, right in the center of it.
+B: Where do I change into the 720 bus?
+A: You're going to change on Whittier Avenue.
+B: Thank you, sir. You have been so helpful.
+
+

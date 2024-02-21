@@ -1,0 +1,15 @@
+
+A: Hello, officer. I want to report a car accident.
+B: What was the cause of the accident?
+A: The other driver had been drinking.
+B: Are there any casualties?
+A: No, both drivers are fine.
+B: Where did the accident take place?
+A: It's on the corner of Fifth and Vine Street.
+B: How many people are involved in the accident?
+A: There are two cars. Each car has two people in the vehicle.
+B: We will respond as soon as possible.
+A: Thank you. Can you hurry; it looks like one of the drivers wants to leave.
+B: We will get there as soon as possible.
+
+

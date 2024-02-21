@@ -1,0 +1,15 @@
+
+A: Good afternoon. Are you the person renting out the apartment?
+B: Yes, I am. What can I do for you?
+A: I'm interested in viewing the apartment.
+B: Alright, would like to make an appointment?
+A: Yes, I very much would.
+B: What time are you available?
+A: Mostly after sundown on weekdays. What days are good for you?
+B: I work in the evenings Monday through Friday. Are you available at any time on the weekends?
+A: I'm available on Sunday. How about three o'clock Sunday afternoon? 
+B: That's a perfect time for me.
+A: Great! I'll come over at three on Sunday.
+B: Sure! I'm expecting you.
+
+

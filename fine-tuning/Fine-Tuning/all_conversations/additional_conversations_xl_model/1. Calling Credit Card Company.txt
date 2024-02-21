@@ -1,0 +1,15 @@
+
+A: Hi, I would like to know my credit balance.
+B: Of course. May I have your credit card number?
+A: Yes, it's 512879346. My name is John.
+B: Alright, John. You currently have no dues on your credit card.
+A: Really? I finally paid it off?
+B: Yes, sir. Your balance is officially zero.
+A: I must admit I am proud of myself!
+B: Is there anything else you'd like me to check, sir?
+A: Yes, can you change my card status from a college to normal account?
+B: Of course, but you'll have to come to the bank to do that.
+A: Alright, I'll be down first thing tomorrow.
+B: Sounds good, sir. Have a good day.
+
+

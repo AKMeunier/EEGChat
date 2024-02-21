@@ -1,0 +1,15 @@
+
+A: Good day! Thanks for meeting with me.
+B: You're welcome, Ms. Thomas. Please sit down.
+A: Thank you. Please call me Jane.
+B: All right! Jane and you can call me Dave.
+A: I am looking to buy a house for myself and my son.
+B: Wonderful! Buying is always a good idea. Do you rent now?
+A: I did, but for the last six-months, I've been living with my mother.
+B: I see. Can I ask you what you do for a living?
+A: I work for the city planning department.
+B: That's a good job. How long have you worked there?
+A: For about three years now.
+B: All right. Let's get started. I'll see what we can do.
+
+

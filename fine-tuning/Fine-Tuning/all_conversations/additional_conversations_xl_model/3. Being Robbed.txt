@@ -1,0 +1,15 @@
+
+A: I need to report a robbery.
+B: Who was robbed?
+A: I was robbed.
+B: I'm so sorry. When did this happen?
+A: It happened 10 minutes ago.
+B: Where were you robbed?
+A: Right outside the bank. I had just taken money from the ATM.
+B: Can you describe the person who robbed you?
+A: He was wearing dark sunglasses and a Yankees baseball cap.
+B: How much money did he take from you?
+A: He took everything I had in my wallet.
+B: You're going to have to fill out a police report.
+
+

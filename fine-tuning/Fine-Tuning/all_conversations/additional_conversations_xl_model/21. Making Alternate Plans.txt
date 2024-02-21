@@ -1,0 +1,15 @@
+
+A: I'm sorry, but today's bus tour has been canceled because of the weather.
+B: Now what am I supposed to do?
+A: The hotel's concierge will be happy to find you tickets to a local theater production.
+B: I'm not really a theater person.
+A: How about we get you reservations to one of the city's finest restaurants?
+B: That sounds good.
+A: What kind of food do you like?
+B: I love seafood, especially lobster.
+A: I'll book you a table at the Lobster Shack restaurant then.
+B: Will the hotel provide transportation?
+A: We can get you a cab.
+B: I'd prefer a limo.
+
+

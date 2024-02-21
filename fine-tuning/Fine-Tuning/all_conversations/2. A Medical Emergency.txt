@@ -1,0 +1,15 @@
+
+A: This is 911. What is your emergency?
+B: I think my wife just had a stroke or a heart attack.
+A: Can you describe her symptoms?
+B: She is unconscious but breathing. She won't wake up.
+A: We are sending an ambulance right now.
+B: How do you know my address?
+A: We can track it down through our phone system.
+B: How long will it take for the ambulance to get here?
+A: It should be there in less than five minutes, sir.
+B: I think I hear the ambulance coming now.
+A: Please let the paramedics in so they can take your wife to the nearest hospital.
+B: Thank you. I'll open the door.
+
+

@@ -1,0 +1,15 @@
+
+A: I'm looking for an apartment. Have you seen any apartments for rent?
+B: No, I have not. I'll keep an eye out.
+A: Thank you. That's very helpful of you.
+B: You're welcome. What kind of an apartment are you looking for?
+A: An apartment with one bedroom.
+B: In what city?
+A: In the city of Pasadena.
+B: You should try looking in the local newspaper.
+A: That's a good idea. I'll try that today.
+B: Let me know if you find any apartments.
+A: Alright, I'll keep you in the loop.
+B: Good luck in your search.
+
+

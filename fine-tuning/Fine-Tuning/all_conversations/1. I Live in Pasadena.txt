@@ -1,0 +1,15 @@
+
+A: Where do you live?
+B: I live in Pasadena.
+A: Where is Pasadena?
+B: It's in California.
+A: Is it in northern California?
+B: No. It's in southern California.
+A: Is Pasadena a big city?
+B: It's pretty big.
+A: How big is "pretty big"?
+B: It has about 140,000 people.
+A: How big is Los Angeles?
+B: It has about 3 million people.
+
+

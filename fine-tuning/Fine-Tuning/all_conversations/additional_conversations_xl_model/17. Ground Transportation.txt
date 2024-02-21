@@ -1,0 +1,15 @@
+
+A: I need to get into downtown as quickly as possible.
+B: We have many ground transportation options.
+A: I don't want to have to share a car with anyone.
+B: Then a taxi would probably be the best option.
+A: Where can I get a taxi?
+B: There is a special taxi line right outside the revolving doors.
+A: How much is that going to cost me?
+B: The city taxis have a meter so you pay by the mile.
+A: Does the fare include the tip?
+B: No, How much you tip is up to you.
+A: Does the taxi take credit cards?
+B: No. Taxis here are cash only.
+
+

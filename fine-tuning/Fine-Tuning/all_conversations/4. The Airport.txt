@@ -1,0 +1,15 @@
+
+A: What time does your plane leave?
+B: It leaves at 12:15.
+A: When do you have to be at the airport?
+B: I have to be there two hours early.
+A: So we have to be at the airport at 10:15.
+B: That means we have to leave the house at 9:15.
+A: Well, it's an hour to get there, if there are no traffic problems.
+B: So maybe we better leave at 8:15?
+A: Yes, it's better to get there too early than too late.
+B: I agree.
+A: You never know what might happen on these freeways.
+B: There's at least one huge accident every day.
+
+

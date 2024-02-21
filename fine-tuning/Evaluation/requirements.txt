@@ -1,0 +1,17 @@
+sentence-transformers
+# tensorflow_hub
+scipy
+openai
+Levenshtein
+fuzzywuzzy
+pymongo
+transformers
+nltk
+rouge
+spacy
+yake
+multi_rake
+keybert
+statsmodels
+bioinfokit
+seaborn

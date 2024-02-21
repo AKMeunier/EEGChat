@@ -1,0 +1,15 @@
+
+A: The floor to my apartment is badly damaged.
+B: I'm sorry to hear that. How bad is it?
+A: It's practically falling apart.
+B: Did some kind of accident cause this?
+A: None that I could've made. I think your previous tenant might have caused this.
+B: That makes sense. He took poor care of the apartment.
+A: I could see that myself.
+B: I'll have that fixed as soon as possible.
+A: If it's not too much trouble, may I request one more thing?
+B: Is there anything else wrong in the apartment?
+A: It's just my bedroom window. I can't seem to get it open.
+B: I'll have that window taken care of as well.
+
+

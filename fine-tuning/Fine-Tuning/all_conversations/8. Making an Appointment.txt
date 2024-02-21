@@ -1,0 +1,15 @@
+B: Hello, what can I do for you?
+A: Hello, I'd like to schedule an appointment.
+B: What time would you like to come in?
+A: Well, I only like Jane cutting my hair.
+B: Jane comes in to work at 3 p.m. today.
+A: That sounds perfect! Sign me up.
+B: You'll be coming in for a haircut, yes?
+A: I'd also like to redo my highlights.
+B: That will be no problem. Can I have your name?
+A: My name is Sarah.
+B: Alright, Sarah, we'll be expecting you!
+A: Alright, thank you!
+B: See you soon!
+
+

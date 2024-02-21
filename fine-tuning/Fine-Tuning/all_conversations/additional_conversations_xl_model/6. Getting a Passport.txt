@@ -1,0 +1,15 @@
+
+A: Good afternoon. I want to get a U.S. Passport.
+B: Is this your first passport?
+A: It is my first U.S. Passport.
+B: Did you fill out the application form?
+A: I downloaded the form at home and have it here.
+B: Did you bring proof of U.S. citizenship?
+A: What kind of proof do I need?
+B: A birth certificate if you were born in the U.S. or naturalization papers.
+A: I'm a new citizen so I have naturalization papers.
+B: This is good because it also serves as your identification.
+A: What else do I need to provide?
+B: I just need $165 and two photographs.
+
+

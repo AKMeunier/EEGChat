@@ -1,0 +1,15 @@
+
+A: Now that we're settled in, it's time to do some exploring.
+B: I know what you mean. Everything is so new.
+A: I think I saw a shopping mall off the highway.
+B: Was it far?
+A: Not really, but we did move to an isolated place.
+B: Yeah, I know. I didn't figure on this.
+A: Let's go. It's not that far.
+B: Okay, I'll get ready.
+A: Alright, I'll get the car out. It's only about 15 minutes away.
+B: I hope it has a lot of shops.
+A: It looked pretty big.
+B: Okay, let's go.
+
+

@@ -1,0 +1,15 @@
+
+A: Hello, my name is George. What's your name?
+B: Hi George, I'm Christine. Nice to meet you.
+A: Hi Christine. Have you worked here long?
+B: Almost two years now, and you?
+A: This is my first week. I really like it so far.
+B: Yes, it's a good place to work.
+A: I like how it seems so organized.
+B: That's one of the things I like best, too.
+A: The benefits aren't bad, either.
+B: No, they're not. I especially like the health plan.
+A: That's great. I'll be eligible in July for that.
+B: You're going to like it here. This is the best place I've worked.
+
+

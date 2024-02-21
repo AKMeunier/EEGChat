@@ -1,0 +1,15 @@
+
+A: Hello, my name is Sally. I am hoping you could help me.
+B: Of course I can, that's what I'm here for.
+A: I want to look for a job, but I don't have Internet access at home.
+B: That's okay, let's get started.
+A: Great! What do I do first?
+B: You're going to need an email address. Do you have one?
+A: Yes, I have my own email.
+B: Okay, I can show you a couple of good websites for jobs.
+A: That would be awesome! Thanks.
+B: We also have job bulletins on that table over there. You can search through those, too.
+A: Well, thank you, miss. I greatly appreciate your help.
+B: No problem. If you have any questions, don't hesitate to ask.
+
+

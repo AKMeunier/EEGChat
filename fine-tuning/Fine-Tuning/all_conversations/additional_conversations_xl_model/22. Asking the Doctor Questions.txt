@@ -1,0 +1,15 @@
+
+A: Doctor, I have a few questions I would like to ask.
+B: I'd be happy to answer your questions.
+A: Based on my test results, do you think I should be taking a multi-vitamin?
+B: Your levels are all within the normal range, so just eat vitamin rich food.
+A: I am trying to get pregnant.
+B: Then you should take a pre-natal vitamin.
+A: Those are expensive.
+B: An alternative would be to eat food enriched with Folic Acid.
+A: What foods are enriched with Folic Acid?
+B: Some cereals and breads now are enriched with Folic Acid.
+A: What if I'm staying away from grains?
+B: Then you should take a vitamin with Folic Acid.
+
+

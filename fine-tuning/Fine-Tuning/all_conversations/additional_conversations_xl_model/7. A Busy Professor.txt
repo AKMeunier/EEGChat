@@ -1,0 +1,15 @@
+
+A: Hey, Professor Hill.
+B: What is it?
+A: I've been having trouble with derivatives.
+B: That's not good. There's a test on derivatives next week.
+A: I know. Can I make an appointment with you for some help?
+B: I'm a busy man.
+A: You didn't even check your schedule yet!
+B: I know I'm busy, because many people already made appointments.
+A: So I'm hopeless?
+B: Of course not! There's the tutoring center.
+A: But the tutors are not professors. They're just students.
+B: They might surprise you.
+
+

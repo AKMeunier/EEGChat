@@ -1,0 +1,15 @@
+
+A: Are there any good French restaurants around here?
+B: There are quite a few. I have some menus you can look at.
+A: Which one do you recommend? It's my wife's birthday.
+B: The French Quarter is very romantic.
+A: Is it very expensive?
+B: It is about $50 a person, not including alcohol or tip.
+A: Do I need a reservation?
+B: Yes, but I would be happy to make that reservation for you.
+A: Great! Get us a table for two at 8.
+B: Will you also need transportation to the restaurant?
+A: Can you get a limo to pick us up?
+B: I can do that for $30.
+
+

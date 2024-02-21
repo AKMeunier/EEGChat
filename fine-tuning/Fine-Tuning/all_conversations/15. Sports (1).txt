@@ -1,0 +1,14 @@
+
+A: Do you know who won against the Dodgers and the Cubs?
+B: I'm sorry, but I don't follow baseball.
+A: Oh, really? Why not?
+B: I've never really got into baseball. I like basketball better.
+A: Oh, okay. Do you have a cell phone?
+B: Yes, why do you ask?
+A: Could you check to see who won the baseball game?
+B: Sure, let me check. It'll take one minute. It looks like the Chicago Cubs won seven to three.
+A: Yes! I was rooting for the Cubs.
+B: Well, they won. Glad I could be of some service.
+A: Thanks again. Have a nice day.
+
+

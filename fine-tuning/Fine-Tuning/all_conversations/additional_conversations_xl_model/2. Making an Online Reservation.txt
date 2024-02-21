@@ -1,0 +1,15 @@
+
+A: I'm going to book our hotel reservation online.
+B: Are you going to book directly from the hotel website?
+A: I think if I use a service like Hotels.com, it is cheaper.
+B: You should compare the websites and see which gives us a better deal.
+A: It asks us how many nights we are staying.
+B: You are also going to have to tell them how many adults and children are staying in the room.
+A: The hotels.com website compares prices for different hotels.
+B: Pick the one that is cheapest, but has the nicest rooms.
+A: How can I tell?
+B: Look at the pictures and also read the reviews.
+A: How do I pay once I pick a hotel?
+B: Here, take my credit card.
+
+

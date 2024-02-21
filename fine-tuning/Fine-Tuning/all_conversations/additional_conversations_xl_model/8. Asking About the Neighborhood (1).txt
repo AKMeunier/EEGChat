@@ -1,0 +1,17 @@
+
+A: What can you tell me about the neighborhood?
+B: Only good things.
+A: Like what, for example?
+B: The neighborhood is a safe and clean place.
+A: Is there any crime?
+B: There is hardly any crime that is reported.
+A: I wonder why that is.
+B: There is a neighborhood watch that patrols daily.
+A: That explains crime disparity.
+B: Any other questions?
+A: Who are the residents living in the neighborhood?
+B: Mostly families and some retired folks.
+A: Sounds like a pleasant neighborhood.
+B: It really is. I hope you enjoy living there.
+
+

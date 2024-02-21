@@ -1,0 +1,15 @@
+
+A: I would like to buy a plane ticket to Boston, Massachusetts.
+B: What date would you like to leave and where are you leaving from?
+A: I would like to travel for the Labor Day holiday and I'm leaving from Burbank airport.
+B: We don't have any direct flights from Burbank to Boston's Logan airport.
+A: I don't want to have a long layover.
+B: I can make a reservation for you for a flight that changes planes in Denver.
+A: How long is the layover?
+B: The layover is two hours.
+A: That will give me enough time to grab a bite. Book it.
+B: Do you have a frequent flyer number?
+A: What is that?
+B: If you fly with us enough, you get points to earn towards a free flight.
+
+

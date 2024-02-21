@@ -1,0 +1,17 @@
+
+A: Is this Gage Avenue?
+B: No, this is Florence Avenue.
+A: Oh, no. I must've gotten off the bus too early.
+B: Don't worry. We all make mistakes.
+A: Thank you for that.
+B: Maybe I can help you get to where you're going.
+A: Are you sure it wouldn't be any trouble?
+B: No trouble at all.
+A: How much further is Gage Avenue?
+B: Not too far. It's a fifteen-minute walk from here.
+A: Can you please point me towards the right direction?
+B: Sure. You're going to head south from here.
+A: South is that way?
+B: No that's north. South is the opposite way.
+
+

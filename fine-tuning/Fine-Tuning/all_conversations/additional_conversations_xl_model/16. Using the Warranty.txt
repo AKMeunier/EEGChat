@@ -1,0 +1,15 @@
+
+A: Hi, I need assistance, please.
+B: How can I help you today?
+A: My phone refuses to turn on anymore.
+B: It looks like it short circuited.
+A: Well, I did drop it many times.
+B: I'm afraid I can't help you.
+A: I guess I'll have to use the warranty.
+B: According to your contract, you may choose a new phone.
+A: I'll just get the same brand again.
+B: Will you need the warranty?
+A: No. Just have the phone.
+B: Make sure you don't go dropping it!
+
+

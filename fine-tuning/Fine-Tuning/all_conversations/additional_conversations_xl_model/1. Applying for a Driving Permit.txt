@@ -1,0 +1,15 @@
+
+A: Hello. I am number G85.
+B: How may I help you today?
+A: I would like to apply for my driving permit.
+B: Are you 16 years old? That's the minimum age.
+A: Yes, I am. Here is my ID.
+B: Thank you. May I see your form?
+A: Oh, of course. Would I be able to take the written today?
+B: If you have the $30, then yes, you can take it.
+A: Oh, I must have forgotten my money at home.
+B: Well, you can make an appointment to take it tomorrow.
+A: That sounds like a good idea.
+B: Okay, I will set up the appointment.
+
+

@@ -1,0 +1,15 @@
+
+A: Thanks for helping me move in all my furniture.
+B: No problem at all. It's a pleasure.
+A: Can you help me decide where to place them?
+B: Sure. Where should we start?
+A: Let's start with the living room. Where do you suggest we place the couch?
+B: Maybe against that wall. Then the television can be placed at the opposite end.
+A: Good idea. Let's do that. Thank you for helping.
+B: You're welcome. Where would you like to place these bookshelves?
+A: I would like it against the wall with the window.
+B: Would you like it placed to the right or left side of the window?
+A: I would like it placed on the right side.
+B: Good choice. Let's move the bookshelf together.
+
+

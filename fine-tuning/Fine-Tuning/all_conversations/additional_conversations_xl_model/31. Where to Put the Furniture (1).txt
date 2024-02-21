@@ -1,0 +1,15 @@
+
+A: Please be carful with that.
+B: Don't worry, we are professionals. Your furniture is safe in our hands.
+A: Thank you. That's reassuring to hear.
+B: Now, where do you want this couch?
+A: Let me think. Right here is a good spot.
+B: Next to the window over there?
+A: Yes, that's the spot. You could put it down there.
+B: Alright, next we have these end tables. Where do you want them?
+A: I want them against this wall please.
+B: There you are. Nice and gentle. See, I told you we were professionals.
+A: Thank you. I feel more secure now seeing you work.
+B: Well, that's good. Let's go get the rest of your furniture.
+
+

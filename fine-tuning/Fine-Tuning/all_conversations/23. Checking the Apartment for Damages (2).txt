@@ -1,0 +1,15 @@
+
+A: Would it be okay if I checked the apartment for any damages?
+B: That's fine with me. Step inside.
+A: Thank you. I'll take a quick look around.
+B: Feel free to take your time.
+A: Right away I noticed some cracks on the kitchen tile.
+B: Where? Can you show me?
+A: Yes. It's right at the corner, next to the sink.
+B: I see it. I'll have that repaired right away.
+A: Thank you. That would be great.
+B: Take a carful look around the apartment, and tell me of anything else that needs tending to.
+A: Here's something else. These doors are kind of loose.
+B: It's the screws on them. I'll have the screws replaced as soon as possible.
+
+

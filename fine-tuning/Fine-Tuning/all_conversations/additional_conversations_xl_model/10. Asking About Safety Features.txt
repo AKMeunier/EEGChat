@@ -1,0 +1,19 @@
+
+A: Tell me about the apartment's safety features.
+B: What would you like to know?
+A: Do the front and back door equip with locks?
+B: But of course, they do.
+A: What kind of locks do they have?
+B: The best deadbolt locks in town.
+A: I'm glad to hear that.
+B: Rest assured that you will be safe and sound in your new apartment.
+A: That's comforting to hear. I thank you for your words.
+B: Not a problem. Do you have any other questions or concerns?
+A: Let me think for a second.
+B: Take all the time you need.
+A: Alright, I got one.
+B: Okay, let's hear it.
+A: Does the apartment have an alarm system?
+B: It in fact does! It's a very important safety feature to have.
+
+

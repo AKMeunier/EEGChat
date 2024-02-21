@@ -1,0 +1,17 @@
+
+A: It's a nice apartment.
+B: I knew you would like it. Who wouldn't?
+A: There is only one issue.
+B: What is it? Is it the next door neighbor?
+A: No, he's great. I was talking about the price.
+B: What about the price? It's a fair price, if I do say so myself.
+A: I think it's a little too high for me. Is there anything you can do for me?
+B: I'm not sure if I can.
+A: Listen, I would be the perfect tenant.
+B: And how is that?
+A: Well, I always make my payments on time. You can check my credit score.
+B: Alright, that's good to hear.
+A: I sleep early, and am very respectable. I also have no pets.
+B: I think I've heard enough. You sound like a good tenant. I'm going to reduce the monthly rent by $100.
+
+

@@ -1,0 +1,15 @@
+
+A: Where can I find the shuttle bus?
+B: There're a number of shuttle buses you can take here at the airport.
+A: I am looking for the shuttle bus that will take me to the rental car location.
+B: Those are out the doors and to the left.
+A: Are those shuttle buses free?
+B: If you have a reservation with the car rental company, they are.
+A: I forgot to make a reservation.
+B: The rental car companies have kiosks at the other end of the airport.
+A: Maybe I'll just take the shuttle bus to the subway.
+B: That shuttle bus is free and is to the right when you exit.
+A: Is there a shuttle bus to take me all the way home?
+B: There is a company that offers that for a fee.
+
+

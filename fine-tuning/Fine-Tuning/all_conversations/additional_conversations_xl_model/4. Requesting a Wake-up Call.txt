@@ -1,0 +1,15 @@
+
+A: I have an early meeting, so can I get a wake-up call?
+B: Sure! What time should we call you?
+A: Can you call my room at six in the morning?
+B: Just tell me your room number.
+A: I'm staying in room 302.
+B: Okay, Mr. Roberts. We'll call you at 6 a.m.
+A: What happens if I don't answer?
+B: Then you'll probably miss your meeting.
+A: Can I request a second wake-up call?
+B: What time should we schedule the second wake-up call?
+A: Call me again at 6:15 a.m. if I don't answer at six.
+B: So we have one wake-up call at six and a second one fifteen minutes later.
+
+

@@ -1,0 +1,15 @@
+
+A: I don't know which size to get.
+B: Why don't you check your shoes?
+A: Sizes are different with each shoe style.
+B: I guess you'll have to measure your foot.
+A: how do I do that?
+B: There's a chart by your chair you put your foot on.
+A: Oh, I found it, thanks.
+B: What size are you?
+A: I'm a size eight.
+B: You have a small shoe size for a man.
+A: It's alright, shoe size doesn't matter.
+B: No. Shoe size does matter.
+
+

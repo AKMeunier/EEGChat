@@ -1,0 +1,15 @@
+
+A: I need to cancel a reservation.
+B: Can you tell me the name the reservation is under?
+A: Sure! The reservation is under the name Carlos Jones.
+B: Can you please confirm your billing address?
+A: It's 116 Lighthouse Road in Boston.
+B: Did you want to reschedule the reservation?
+A: No, I need to cancel it outright.
+B: So I'm canceling the reservation from March 3 through 5th, correct?
+A: That is right.
+B: The cancelation will be subject to a $15 cancellation fee.
+A: No one told me that when I made the reservation.
+B: I'm sorry, sir. You can pay the cancellation fee or be charged for the full stay.
+
+

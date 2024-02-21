@@ -1,0 +1,16 @@
+
+A: Here's your dinner, folks. Enjoy!
+B: Thank you. This looks delicious.
+A: You're welcome.
+B: Excuse me.
+A: Yes, how can I help you?
+B: This salmon steak tastes a little funny.
+A: Funny? In what way?
+B: I don't know for sure, but, I think it might be spoiled.
+A: Not to worry. We will bring you a new steak.
+B: Yes, please do. This one turned my stomach.
+A: Oh, no. Are you okay?
+B: I think so, but I'm not in the mood for dinner now.
+A: That's perfectly alright. We will refund your money.
+
+

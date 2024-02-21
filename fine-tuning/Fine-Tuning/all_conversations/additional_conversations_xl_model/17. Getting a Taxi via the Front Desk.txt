@@ -1,0 +1,15 @@
+
+A: I need a cab to the theater district.
+B: We can get that for you right away.
+A: Well, I don't need to be there for another hour.
+B: Would you like to reserve a limo then?
+A: That seems a bit much for me. Just a regular cab is fine.
+B: We can't reserve a taxi that far in advance, sir.
+A: So how do I get a cab in an hour then?
+B: If you go right outside our lobby when you are ready, a staff member will hail one for you.
+A: Do I have to tip the guy who gets the cab for me?
+B: Tips aren't mandatory, but they are appreciated.
+A: Maybe I'll just hail the cab myself then.
+B: That's also an option.
+
+

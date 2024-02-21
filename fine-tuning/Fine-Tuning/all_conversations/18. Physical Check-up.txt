@@ -1,0 +1,15 @@
+
+A: What brings you in to see me today?
+B: I'm here for my annual check-up.
+A: Well, the nurse already took your blood pressure and she said it looks a little high.
+B: That could be related to my thyroid medication.
+A: That could be it. Let me listen to your heartbeat.
+B: Does it sound good, doctor?
+A: Sounds nice and strong to me.
+B: I am concerned about some pain I've been having in my knee.
+A: Are you very physically active?
+B: I'm training to run the marathon.
+A: That puts a lot of pressure on your knees.
+B: I hope I don't have to stop training.
+
+

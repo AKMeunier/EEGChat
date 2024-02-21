@@ -1,0 +1,15 @@
+
+A: Have you decided what you're going to order?
+B: I think I want to eat a steak today.
+A: That sounds delicious!
+B: I've been craving one all day.
+A: You're making me crave one now!
+B: Well, we might as well order the steak now.
+A: Actually, I change my mind.
+B: What are you having?
+A: Shrimp pasta, it looks delicious.
+B: Do you mind if I try some of that?
+A: Only if you give me some steak!
+B: Alright, it's perfect, thanks!
+
+

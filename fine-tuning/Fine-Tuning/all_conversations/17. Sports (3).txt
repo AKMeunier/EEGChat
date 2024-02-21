@@ -1,0 +1,17 @@
+
+A: Can you explain baseball to me?
+B: I can try to explain the basics. What do you want to know?
+A: What are strikes?
+B: Every batter has three strikes. When they get three strikes, they are out.
+A: Okay, but what about when the umpire calls a ball?
+B: Once an umpire calls four balls, then the batter goes to first base.
+A: What happens when a pitcher hits a batter with the ball?
+B: The batter goes to first base.
+A: What if someone is on first base?
+B: Then whoever was on first base goes to second base.
+A: Oh, okay. What's a no-hitter?
+B: A no-hitter is when a team doesn't get a hit throughout the game.
+A: So, that's a good thing for the pitcher?
+B: Yes, because that means he pitched really well.
+
+

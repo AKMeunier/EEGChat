@@ -1,0 +1,15 @@
+
+A: I want to watch a movie.
+B: Nothing good is playing at the theater.
+A: That's true. Plus, I don't have much money.
+B: Do you have a Netflix account?
+A: No, I don't.
+B: Why don't we go rent a movie?
+A: Is it expensive?
+B: No, just a couple of dollars.
+A: We can buy some snacks, too.
+B: It will be like a mini trip to the movies.
+A: That sounds good to me! Let's go.
+B: I'm right behind you!
+
+

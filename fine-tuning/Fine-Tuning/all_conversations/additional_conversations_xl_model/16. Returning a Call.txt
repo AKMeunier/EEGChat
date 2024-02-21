@@ -1,0 +1,15 @@
+
+A: Hello, is this Mr. Smith? I'm Mrs. Jones.
+B: Hello, Mrs. Jones. Did you get my message?
+A: Yes, I did, I'm returning your call.
+B: Oh, right, of course.
+A: What's the problem? Is James in trouble?
+B: I caught him copying a classmate's test today.
+A: Oh, that child is incorrigible!
+B: I'm afraid I'll have to give him detention this time.
+A: It's alright, I understand.
+B: James certainly is strong-willed.
+A: Yes, he needs a firm hand and discipline!
+B: He's a good boy. Now if only he'd stop cheating!
+
+
