@@ -1,11 +1,4 @@
-sentence-transformers
-scipy
-Levenshtein
-fuzzywuzzy
-transformers
-spacy
 yake
 multi_rake
 keybert
 num2words
-gradio
