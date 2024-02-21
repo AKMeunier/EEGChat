@@ -15,3 +15,4 @@ statsmodels
 seaborn
 pandas
 bson
+num2words
