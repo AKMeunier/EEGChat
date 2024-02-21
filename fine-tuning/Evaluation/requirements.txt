@@ -1,5 +1,4 @@
 sentence-transformers
-# tensorflow_hub
 scipy
 openai
 Levenshtein
@@ -13,5 +12,6 @@ yake
 multi_rake
 keybert
 statsmodels
-bioinfokit
 seaborn
+pandas
+bson
