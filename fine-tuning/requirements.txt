@@ -16,3 +16,4 @@ seaborn
 pandas
 bson
 num2words
+jupyter
