@@ -1,0 +1,15 @@
+
+A: I work for the Big City Newspaper, and I'm doing a story on Election Day.
+B: I read that paper all the time!
+A: Great! So I can interview you for my story?
+B: I would love that!
+A: Did you vote today?
+B: I'm on my way home from voting now.
+A: Who did you vote for?
+B: I voted for our city's first female mayor.
+A: Were there many people voting?
+B: I think turnout was pretty low. It's a shame.
+A: Why do you think that is?
+B: I think people think all politicians are dishonest.
+
+

@@ -1,0 +1,15 @@
+
+A: Hello, neighbor. How are you today?
+B: I'm fine. How are you?
+A: I'm doing alright. I was wondering if I could ask you for a favor.
+B: Sure. What is it?
+A: I'll be away for the weekend. Could you take care of my dog?
+B: Yeah, I'd love to. I'm great with dogs.
+A: Oh, that's fantastic! Thank you very much!
+B: Is there anything I need to know about your dog?
+A: Not really. She's an old, calm, and friendly dog. You'll have no trouble.
+B: Alright. I'll give you a call if I have any questions or concerns.
+A: I'll bring her over in a few minutes along with her food. Thanks again!
+B: No problem. Have a safe trip.
+
+

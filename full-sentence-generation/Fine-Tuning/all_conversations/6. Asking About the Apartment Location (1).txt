@@ -1,0 +1,17 @@
+
+A: Is the location of the apartment a good one?
+B: Yes. I would say so.
+A: Why is that?
+B: The city of Pasadena is generally safe. Have you been there?
+A: Yes, it's relatively calm.
+B: Do have any other concerns about the location?
+A: Is the apartment's location near any shopping areas?
+B: Yes, it is.
+A: What shopping areas?
+B: There is a place called Old Town where a lot of shops are located.
+A: How far away is Old Town from the apartment's location?
+B: Ten minutes away on car.
+A: And on foot?
+B: Twenty minutes on foot.
+
+

@@ -1,0 +1,15 @@
+
+A: Thank you for coming to my party this evening.
+B: No, thank you for letting me come as my cousin's guest.
+A: Any relative of Tina is welcome in my home. Have a seat.
+B: Thank you. You two know each other for a long time?
+A: We have. Can I get you something to drink?
+B: A glass of water will be fine.
+A: Would you like that with or without ice?
+B: Without ice is fine.
+A: We also have a buffet out back.
+B: Could you show me the way?
+A: Sure just follow me. I think your cousin is out back.
+B: You really have a lovely home.
+
+

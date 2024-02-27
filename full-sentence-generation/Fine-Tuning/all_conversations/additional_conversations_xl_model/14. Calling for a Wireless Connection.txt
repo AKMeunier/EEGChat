@@ -1,0 +1,15 @@
+
+A: I'm having trouble connecting to the wireless network.
+B: What network are you trying to connect to?
+A: I'm trying to connect to the Bay Hotel Network.
+B: You need to connect to Bay Hotel Guest Network.
+A: What login do I use?
+B: Your room number is your login.
+A: What about the password?
+B: The password for all guests is "vacationconnect", all one word, all lower case.
+A: That seems to work. Thanks so much.
+B: No problem. In the future, refer to the guest folder located by the television.
+A: I'm so stupid. I didn't even think to look there.
+B: No problem. That's what we're here for.
+
+

@@ -1,0 +1,15 @@
+
+A: Hello, this is my first time here. I could use some help.
+B: Okay, I can help. What is it you want to do?
+A: I need to use the database on your computer.
+B: Well, I need something from you before I can allow you to do that.
+A: What do you need from me?
+B: I will need you to fill out this form, and show me identification.
+A: Okay, I'll do that. I can then search your database?
+B: Oh, no. You'll need to ask for permission.
+A: Here's the form and my ID.
+B: Wonderful. You can ask Mr. Lee for permission now.
+A: That's super. Thanks.
+B: You're welcome. Good luck.
+
+

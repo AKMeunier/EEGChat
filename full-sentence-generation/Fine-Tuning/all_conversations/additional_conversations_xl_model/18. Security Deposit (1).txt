@@ -1,0 +1,15 @@
+
+A: Let's discuss the security deposit.
+B: Do you have the full amount for the deposit?
+A: I think I do. How much was it again?
+B: It was a total of $1,000.
+A: Can you please explain how a security deposit works?
+B: You don't know? I thought you did.
+A: I just want to make sure I have it correct.
+B: The security deposit ensures coverage for any damages you may cause to the apartment at your departure.
+A: I see. Is that it or is there more to it?
+B: The security deposit also could be used to help repay any owing rent you may have.
+A: Okay, that's what I was thinking. Thanks for confirming that information.
+B: Sure thing. You're welcome.
+
+

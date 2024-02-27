@@ -1,0 +1,15 @@
+
+A: Do you know how I can get to the Gold Line?
+B: Yes I do. You'll only need one bus.
+A: Which bus should I take?
+B: You can take the 260 bus on Atlantic.
+A: How long will it take me to get there?
+B: It should take you no longer than 30 minutes depending on traffic.
+A: Thanks. I'll leave in a bit.
+B: Where are you planning to go?
+A: I want to go to Little Tokyo. I heard nice things about it.
+B: Can I go with you?
+A: Sure! You can then show me where the 260 stop is.
+B: Awesome! I'll just grab my bus pass. Then I'll be ready to go.
+
+

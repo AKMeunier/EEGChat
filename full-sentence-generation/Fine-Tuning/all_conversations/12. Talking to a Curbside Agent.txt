@@ -1,0 +1,15 @@
+
+A: Can I check in here at the curb?
+B: Sure! Do you have any bags you need to check in?
+A: I have one suitcase.
+B: That will be $35.
+A: Oh, but I paid online already.
+B: Can I see your ID and I'll check for you.
+A: Here is my driver's license.
+B: Sorry about that. You did pay already.
+A: I told you so.
+B: Looks like you're leaving out of gate 12A, but check the screens inside.
+A: Can my mom come with me to the gate?
+B: Not unless she is flying with you.
+
+

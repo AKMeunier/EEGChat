@@ -1,0 +1,15 @@
+
+A: We think your leg may be broken.
+B: How will you know for sure?
+A: We're going to take you to Radiology to get it x-rayed now.
+B: Will the x-ray hurt?
+A: It's a pain free procedure that allows us to take a picture of your bones.
+B: Are there any side effects associated with taking an x-ray?
+A: Diagnostic x-rays are safe as long as they are not overused.
+B: I've never had an x-ray in my entire life.
+A: Then you should be fine.
+B: Can someone be in the room with me?
+A: Someone can be in the room with you, but not next to you during the x-ray.
+B: Please go get my wife then.
+
+

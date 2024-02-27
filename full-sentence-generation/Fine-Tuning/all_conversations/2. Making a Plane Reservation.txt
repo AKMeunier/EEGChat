@@ -1,0 +1,15 @@
+
+A: Thank you for calling Eagle Airline.
+B: I would like to book a round trip flight from Los Angeles to New York City
+A: What date do you want to leave Los Angeles?
+B: I want to leave on September 1st.
+A: Do you prefer a morning flight?
+B: Can you get me on a red-eye out of LAX?
+A: I can book you on an overnight flight that will get you into New York City at 6 a.m.
+B: Make sure I land in JFK not LaGuardia airport
+A: Okay, so I have you on an overnight flight from Los Angeles International Airport leaving at 10 p.m. to JFK.
+B: I don't want to have anyone climbing over me to use the bathroom while I sleep, so I want a window seat.
+A: I will put you in window seat 13A.
+B: Make sure that isn't an exit row because I don't want to have to help in an emergency.
+
+

@@ -1,0 +1,15 @@
+
+A: Can I get you something to drink?
+B: I would love something to drink.
+A: I have water, juice, ice tea or did you want something stronger?
+B: Something stronger would be great. Do you have wine?
+A: I do. Would you prefer red wine or white wine?
+B: I'd love white, but it depends what kind you have.
+A: I have Chardonnay.
+B: That would be great. I'll take a glass.
+A: Excellent! Should I also bring out some cheese and crackers.
+B: That would go so well with the wine.
+A: Great! Just give me a moment to get that from the kitchen.
+B: You are such a wonderful host.
+
+

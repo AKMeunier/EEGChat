@@ -1,0 +1,15 @@
+
+A: How are you?
+B: I'm doing well. How are you?
+A: I'm fine, thanks. I was wondering if you read my report.
+B: Yes, I did read your report.
+A: Well, what did you think?
+B: To be truthful, I didn't like it much.
+A: Oh, no. Why not?
+B: I don't have the time to discuss this now. Let's make an appointment.
+A: Okay, but generally speaking, what was wrong with it?
+B: I just don't feel confident in it.
+A: I can make it work. All I need is time.
+B: I like your enthusiasm, but it's too risky, sorry.
+
+

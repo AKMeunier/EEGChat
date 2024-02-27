@@ -1,0 +1,15 @@
+
+A: Are you my new neighbor?
+B: Yes, I am. It's nice to meet you.
+A: Nice to meet you, too.
+B: How is your day going so far?
+A: It's going just fine. Thank you for asking.
+B: Do you think you can help me with something?
+A: Sure, I would be glad to help, whatever I can.
+B: It's nothing big. I just need help carrying my old couch to the curb.
+A: Alright, do you want me to help you right now?
+B: If it's not a problem.
+A: No. I'll come over right now.
+B: Thank you for the assistance.
+
+

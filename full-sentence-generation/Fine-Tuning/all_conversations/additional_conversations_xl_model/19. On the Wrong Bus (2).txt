@@ -1,0 +1,15 @@
+
+A: Excuse me, bus driver. I have a question.
+B: What do you need to know?
+A: I don't recognize where I'm going. Where are we?
+B: You are on the bus headed to East Los Angeles.
+A: Oh, I see. I believe I have gotten on the wrong bus.
+B: Well, I'm sorry, but I can't give you a refund.
+A: That's fine. I need to go to Pasadena. Can you give me directions?
+B: Sure. I have a bus pamphlet for you, too. Here you go.
+A: Thank you. I'm new to the area.
+B: Don't worry. It happens. I'll let you off down here.
+A: Alright. Thank you very much. Have a nice day.
+B: You too, and good luck getting to Pasadena.
+
+

@@ -1,0 +1,15 @@
+
+A: Where do you want to go eat?
+B: I'm not sure. Wait, watch out! The light is red!
+A: Oh, damn. Well, there I passed it.
+B: I think there was a cop at the light.
+A: Can you check? Look behind you.
+B: I don't see anything. Wait, there is a car turning the corner.
+A: Is it a police car? Well, is it?
+B: Oh, no. I think it is.
+A: Well, hopefully he doesn't stop us.
+B: Oh, no. He just turned on his lights.
+A: Damn, I have to pull over.
+B: Yes, I hope I don't get a ticket.
+
+

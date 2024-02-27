@@ -1,0 +1,15 @@
+
+A: Hi! How are you?
+B: I'm doing good. Hey, did you apply for the job?
+A: I sure did. I'm meeting your boss today.
+B: Today, but it's Saturday.
+A: I know. I'm meeting with him at a restaurant later.
+B: That's cool. He must be very interested.
+A: Can you describe him?
+B: Sure. He's a tall Asian, who is a bit overweight with long black hair.
+A: Well, that helps. This is the first time I will see him.
+B: He's really friendly, and he always wears a tie.
+A: Okay, thanks. That helps.
+B: No problem, my friend. Good luck on your interview.
+
+

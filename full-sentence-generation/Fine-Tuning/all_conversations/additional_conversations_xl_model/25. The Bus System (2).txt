@@ -1,0 +1,15 @@
+
+A: I want to get to Monterey Park. What bus should I take?
+B: If you're in Maywood, you can take the 260 bus on Atlantic.
+A: How long will it take me to get there?
+B: It will take you about thirty minutes depending on traffic.
+A: That's not too bad.
+B: Yeah, it really isn't.
+A: Are there a lot of people on that bus?
+B: The 260 bus can get pretty full except on holidays.
+A: Thank you for telling me.
+B: No problem. Where are you going?
+A: I'll be visiting friends.
+B: That's nice. I hope you have fun.
+
+

@@ -1,0 +1,19 @@
+
+A: Hello, I would like to buy a bus pass.
+B: Do you have a card to use for your pass?
+A: What kind of card do I need?
+B: It's a card I can provide you with.
+A: Is it free to get?
+B: No, but it's only one dollar.
+A: It's nearly free. Here's the dollar.
+B: Do you also have money for the day pass?
+A: Yes, I do. How much is it for a day pass again?
+B: Exactly five dollars.
+A: I do have enough. Do I give you the money?
+B: No, please deposit it into the machine.
+A: Alright then. There you go.
+B: Here's your pass for the day. Do take care of that.
+A: Thank you very much. I'll hold on to it.
+B: You're welcome. Have a nice day.
+
+

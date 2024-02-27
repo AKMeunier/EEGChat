@@ -1,0 +1,15 @@
+
+A: I'm calling to see if the results of some tests I took are in?
+B: I can check for you. Can I have your name, please?
+A: Sure, my name is Willie Foster.
+B: Mr. Foster, your doctor is Dr. Edwards?
+A: Yes, that's right.
+B: Can you tell me when the tests were taken?
+A: I was there last week.
+B: I see your results are in, Mr. Foster.
+A: Great! Can you read them to me?
+B: Actually I cannot. You need to come in and see the doctor.
+A: Are they that bad? Am I dying?
+B: Sir, I'm just the receptionist. Why don't you come and speak to Dr. Edwards?
+
+

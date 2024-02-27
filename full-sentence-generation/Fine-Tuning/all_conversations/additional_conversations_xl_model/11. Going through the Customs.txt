@@ -1,0 +1,15 @@
+
+A: Do you have your customs form?
+B: Yes, I filled it out on the plane.
+A: I also need your passport.
+B: I'm a U.S. citizen.
+A: I still need to see your passport.
+B: What other documents do you need?
+A: Do you have anything to declare?
+B: I bought some leather wallets in Morocco.
+A: You're going to have to show them to me.
+B: Are you going to take then away from me?
+A: I'll only confiscate them if they are made of python skin.
+B: They are just leather wallets.
+
+

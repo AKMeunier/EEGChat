@@ -1,0 +1,15 @@
+
+A:I don't understand how health insurance works in the U.S.
+B: Do you have health insurance through your job?
+A: I'm a part-time employee, so that is not part of my benefits package.
+B: You can buy health insurance based on your income.
+A: How exactly does that work?
+B: If you go to healthcare.gov, you can see what plans you are eligible for.
+A: Then what happens?
+B: You pay a fee every month and choose a primary care doctor from your plan.
+A: What is a primary care doctor?
+B: A primary care doctor is the doctor you visit when you have a headache or for regular check-ups.
+A: Do I go to my primary care doctor in an emergency?
+B: No, in an emergency, you just go to the closest emergency room.
+
+

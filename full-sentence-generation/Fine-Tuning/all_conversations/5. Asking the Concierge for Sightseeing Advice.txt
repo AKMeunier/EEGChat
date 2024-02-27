@@ -1,0 +1,15 @@
+
+A: I have a few hours to explore the city.
+B: I can make some recommendations for you.
+A: Great! I want to see some museums.
+B: Here are some brochures for some local museums. Do you like modern or classic art?
+A: I like modern art. Are the museums far?
+B: It depends on which one of the two modern art museums you want to see.
+A: Where is the closest one?
+B: Let me show you on the map. This one is in walking distance from the hotel.
+A: Is the ticket to get in very expensive?
+B: It's normally $20.
+A: Does the hotel offer any discount tickets?
+B: If you buy the ticket here, it will only cost you $15.
+
+

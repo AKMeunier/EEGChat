@@ -1,0 +1,15 @@
+
+A: What's your policy towards owning pets in the apartment?
+B: I usually don't permit any kind of pets.
+A: Would you be willing to make an exception?
+B: It depends on the pet. Are you a pet owner?
+A: I have a few rabbits and hamsters.
+B: How many exactly?
+A: I have two rabbits and three hamsters.
+B: As long as you keep them inside your apartment I don't see why they would be a problem.
+A: I'm guessing cats and dogs are not permitted?
+B: Not, they are not. I'm sorry to say.
+A: Did something happen that made you change your policy towards cats and dogs?
+B: Yes. A tenant previously owned a dog and the dog attacked another tenant one day.
+
+

@@ -1,0 +1,16 @@
+
+A: You look lost. Are you in need of any directions?
+B: I was just about to ask someone for directions. Thank you for noticing.
+A: Where are you from?
+B: I'm from the inner city.
+A: You're a long way from home then. Are you looking for a certain street?
+B: Actually, I need directions to the nearest public bus.
+A: Which bus number are you looking for?
+B: I'm looking for Line 267.
+A: I know that bus. The stop is just around that corner.
+B: Where? Over there?
+A: In that direction.
+B: Thank you so much. I appreciate the help.
+A: You're welcome. Safe travels, my friend.
+
+

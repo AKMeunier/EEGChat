@@ -1,0 +1,13 @@
+
+A: Here comes our food. I'm so hungry. It looks delicious.
+B: Here's your order.
+A: Excuse me, but I don't think this order is correct.
+B: Really? What did you order?
+A: I ordered the fried chicken. This is grilled.
+B: Let me check. Oh yes, you did order the fried chicken.
+A: Yes, I did. Thank you.
+B: Not to worry. I'll get your order out in no time.
+A: Please do. Two of us would like to eat at the same time.
+B: If you like, I can keep your plate warm while preparing her meal.
+
+

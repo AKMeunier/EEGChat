@@ -1,0 +1,15 @@
+
+A: Do you have the floor plan to the apartment?
+B: Yes I do. Would you like to take a look at it?
+A: Yes I would, if you don't mind.
+B: Not at all. By all means, take a look for yourself.
+A: Where did you get this piece of paper of the floor plan?
+B: I have access to this kind of information.
+A: I see. Can you help me read this?
+B: Sure I can. What would you like to know?
+A: How big is the living room?
+B: According to the floor plan it is 20 feet long and 15 feet wide.
+A: Oh, so that's what those numbers mean.
+B: Right. This apartment has a good floor plan.
+
+

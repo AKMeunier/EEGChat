@@ -1,0 +1,15 @@
+
+A: Hi, I'm here to apply for a library card.
+B: Is this your first time applying for one?
+A: It's my first time applying for a card here.
+B: Do you have cards with any other libraries?
+A: Yes, I have one with my college and one with my local library.
+B: What college do you go to?
+A: UCLA. They have over 10 libraries!
+B: That's one of the great perks of higher education. 
+A: Even though I have library cards, I really like this library.
+B: What do you like about it?
+A: I like the foreign language books. That's rare for any library.
+B: Yes, it is! We get people all over the world because of that section.
+
+

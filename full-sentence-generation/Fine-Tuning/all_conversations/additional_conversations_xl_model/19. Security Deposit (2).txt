@@ -1,0 +1,17 @@
+
+A: This is a great apartment.
+B: I'm glad you found it to your liking.
+A: I knew I would, judging from the description I read.
+B: Are you ready to discuss payment?
+A: Yes, I think I am.
+B: You will have to pay for the security deposit.
+A: Security deposit? What is that for?
+B: It's simply money you give to me as a kind of insurance in case you cause any damage to the apartment.
+A: I understand. That makes sense.
+B: So are you ready to pay the deposit?
+A: How much are you asking?
+B: It's at least $1,000 for the security deposit.
+A: Alright, I could provide that much.
+B: Perfect! I think we are ready to sign the lease.
+
+

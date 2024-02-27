@@ -1,0 +1,15 @@
+
+A: Are you the Rental Agent?
+B: Yes, I am. Welcome to my office.
+A: It's nice to meet you. Thank you.
+B: How did you hear about me?
+A: A friend referred me to you.
+B: Oh really. I'm glad.
+A: He said you were the right person to talk to about renting an apartment.
+B: That's nice to hear. I'm flattered. How can I help you?
+A: I found an apartment in Pasadena, and I wanted a second opinion.
+B: Sure. Do you have the apartment's information?
+A: Yes, I do. Here it is.
+B: Thank you.
+
+

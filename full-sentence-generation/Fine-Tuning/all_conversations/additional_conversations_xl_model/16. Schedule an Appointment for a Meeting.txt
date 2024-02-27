@@ -1,0 +1,15 @@
+
+A: Good morning, Jet Office Products.
+B: Hello, my name is Richard Lee, and I would like to make an appointment.
+A: Good morning, Mr. Lee. My name is Sheila.
+B: Hello, Sheila. I was asked by Mrs. Roberts to schedule a meeting with her.
+A: Is this for an interview?
+B: No, I've already interviewed with her.
+A: Oh, I see. It's for a follow-up meeting. When are you free?
+B: My schedule is fairly open. When will she be available?
+A: How about Tuesday at 9 a.m.?
+B: This Tuesday, the 5th?
+A: Yes, that's correct.
+B: That will be fine. I'll be there. Thanks.
+
+

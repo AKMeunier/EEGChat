@@ -1,0 +1,15 @@
+
+A: Do you think you can identify the man you saw robbing the woman outside the bank?
+B: I think I remember what he looked like.
+A: Please take a look at the six men lined up.
+B: Can they see me?
+A: No, they cannot see you. This is one-way glass.
+B: I see the man who robbed the lady outside the bank.
+A: Can you tell us which one he is?
+B: It's number three for sure.
+A: Number three, please step forward.
+B: That's him. You're sure he can't see me?
+A: He can't see you. Thanks for your help today.
+B: Please don't let him rob anyone else.
+
+

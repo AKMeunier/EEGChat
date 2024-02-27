@@ -1,0 +1,10 @@
+Sales clerk:  Can I help you?
+Customer:  Is the price on this television flexible?
+Sales clerk:  Yes.
+Customer:  Your competition is selling this TV for $300 cheaper.
+Sales clerk:  Do you have a flier showing a cheaper price?
+Customer:  I can show you their website on my phone.
+Sales clerk:  If you can show me a lower price for the exact model, I can match that price.
+Customer:  Here is the exact television with a cheaper price.
+Sales clerk:  I see.  I will match that price.
+Customer:  Great!  Thank you!

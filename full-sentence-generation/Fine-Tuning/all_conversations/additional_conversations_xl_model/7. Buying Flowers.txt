@@ -1,0 +1,15 @@
+
+A: I'd like to buy some flowers for my best friend's birthday.
+B: What is your friend's favorite color?
+A: She loves the color pink.
+B: I can make her a bouquet with pink roses.
+A: I don't want roses because that seems romantic, not to mention expensive.
+B: I can make the bouquet with carnations, lilies, and daisies instead.
+A: That sounds friendlier and cheaper.
+B: Would you like these to be delivered to your friend?
+A: That would be a great surprise.
+B: Just fill out this card and include the delivery address.
+A: Can you deliver these today?
+B: I can have them to your friend before 5 p.m.
+
+

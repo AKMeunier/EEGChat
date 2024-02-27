@@ -1,0 +1,15 @@
+
+A: Hello, may I speak to Susan, please?
+B: Yes, this is Susan.
+A: This is Mr. Jones from the ABC Company.
+B: Hello, Mr. Jones.
+A: I have a job offer if you are still interested.
+B: Oh, that's wonderful. Is it for the customer service job?
+A: Yes, we would like you to start next Monday. It pays $15 per hour.
+B: Next Monday? Sure. I'll take it.
+A: Super. I'll email you some literature you can read about our company.
+B: Oh, that's great news, Mr. Jones.
+A: Welcome to the ABC Company. We'll see you Monday.
+B: Okay, Monday it is. See you then.
+
+

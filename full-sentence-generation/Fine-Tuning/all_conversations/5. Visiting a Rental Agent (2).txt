@@ -1,0 +1,15 @@
+
+A: Is it a good apartment?
+B: Yes. It seems fine to me.
+A: That's good to hear.
+B: There is only one issue.
+A: What is it?
+B: The landlord is asking for too much money.
+A: What should I do?
+B: Negotiate with him.
+A: I'm not such a good negotiator. Can you do it for me?
+B: For a small fee, I sure can.
+A: Alright, you have the deal.
+B: I'll call him this evening.
+
+

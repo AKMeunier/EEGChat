@@ -1,0 +1,15 @@
+
+A: How much do I need to insert here to make one copy?
+B: It depends. Do you want your copy in color or black and white?
+A: I want it in color.
+B: Then it will be 20 cents per page.
+A: That's kind of expensive.
+B: Yeah, but most of us don't have a copy machine of our own.
+A: I have one, but it's broken.
+B: That sucks. Well, if money's an issue, you can copy your stuff in black and white.
+A: No, it has to be color.
+B: Do you really not have 20 cents?
+A: I do, but I'm really cheap.
+B: Well, you don't really have a choice at this point.
+
+

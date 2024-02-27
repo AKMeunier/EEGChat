@@ -1,0 +1,15 @@
+
+A: Where can I get a tour of the city?
+B: We can arrange a tour for you right here at our concierge desk.
+A: How much is the tour?
+B: It depends on what kind of tour you want.
+A: I hear you have a half-day bus tour.
+B: We do, and it is $25 per person.
+A: Can I get off the bus and explore on my own?
+B: You can only do that if you take the all-day bus tour.
+A: Is that more money?
+B: It doubles the price.
+A: That's highway robbery, but book me anyway.
+B: That will be $50 then.
+
+

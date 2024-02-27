@@ -1,0 +1,15 @@
+
+A: Election Day is next Tuesday.
+B: Did you register to vote?
+A: How do you register?
+B: If you are a U.S. citizen, 18 years or older, you can fill out a form.
+A: What does the form ask you?
+B: It asks for basic details like your name, address, age, and what political party you want to join.
+A: Do I have to choose a political party?
+B: No, that's optional, but if you choose a party, you can vote in certain primaries.
+A: What happens once I register?
+B: You'll get a voter card in the mail.
+A: What good is that?
+B: It will tell you where your polling place is.
+
+

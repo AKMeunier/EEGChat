@@ -1,0 +1,16 @@
+
+A: Hello, how are you doing?
+B: I am doing quite well, how are you?
+A: I've been better. I'm completely swamped with work.
+B: I know the feeling. My boss works me hard, too.
+A: Enough about work. How are the kids?
+B: They are good. The oldest is about to graduate from high school.
+A: You're kidding me! That's great, man.
+B: The youngest is about to start middle school soon.
+A: My son is about to start middle school as well.
+B: Hey, maybe they will be classmates.
+A: It's a strong possibility.
+B: Yeah. Well, I want to try and beat the traffic. Good-bye.
+A: Have a good one.
+
+

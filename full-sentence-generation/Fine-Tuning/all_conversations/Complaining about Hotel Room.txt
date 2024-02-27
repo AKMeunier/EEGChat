@@ -1,0 +1,6 @@
+Hotel clerk:  This is the Front Desk.  How can I help you?
+Hotel customer:  This is Janet Lee from room 112.  
+Hotel clerk:  Hello, Ms. Lee.  How can I help you?
+Hotel customer:  I paid for a room with an attached office, but this hotel room has no office.
+Hotel clerk:  I'm sorry about that.  I will change your room right away. 
+Hotel customer:  Great!  I'm on a business trip, so an office is important to me.

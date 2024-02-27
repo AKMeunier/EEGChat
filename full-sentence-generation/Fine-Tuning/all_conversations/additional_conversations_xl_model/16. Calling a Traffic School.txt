@@ -1,0 +1,15 @@
+
+A: Hello. I need to make an appointment.
+B: Were you mandated by the court to go to traffic school?
+A: Yes, I was. Does that matter?
+B: Yes, it does. Let me have your full name.
+A: It's David Johnson. What days do you have available?
+B: We have Tuesday, Thursday, and Saturday.
+A: Oh, okay. I can make it on Thursday. What time should I be in?
+B: Come in at 9 a.m. if you can't make it during that time, please call.
+A: Great. I will see you this Thursday.
+B: Remember to bring your court papers. We will need to sign those.
+A: I seem to have lost them. Could I go to court to get another copy?
+B: Yes, go to the court and print them out before you come over.
+
+

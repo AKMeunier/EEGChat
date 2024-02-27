@@ -1,0 +1,15 @@
+
+A: Hello. I was in an accident earlier today.
+B: Okay, did you get the appropriate information from the other driver?
+A: Yes, I did. Just tell me what you need.
+B: It would be better if you came into the office.
+A: When can I come in?
+B: You can come in tomorrow. What time works for you?
+A: I can make it in tomorrow at noon.
+B: Great. Can you give me your full name?
+A: Yes, it's David Mark.
+B: Okay, Mr. Mark. I have you scheduled for tomorrow at noon.
+A: Sounds good. I will see you tomorrow.
+B: Please remember to bring in all the information you got from the other driver.
+
+

@@ -1,0 +1,15 @@
+
+A: I would like to purchase the book for Sociology 130.
+B: May I see your student ID?
+A: I didn't know we needed it.
+B: Please go get your ID, and get in line again.
+A: But I waited in line for two hours!
+B: I'm sorry, but you need a student ID to purchase textbooks here.
+A: Are there any other options?
+B: Show me proof that you're a student at this college, and you'll be good.
+A: I have my report card. Here it is.
+B: This will do. Nice grades by the way.
+A: Thanks! I worked very hard for them.
+B: Good luck with this semester.
+
+

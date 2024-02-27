@@ -1,0 +1,15 @@
+
+A: So, what did you think about the car?
+B: It was a good test drive, but I need to think it over.
+A: Do you have any questions or concerns?
+B: I'm sorry, but I don't think I am going to purchase this car.
+A: If I may ask, what didn't you like about the car?
+B: I don't see myself driving this car.
+A: Is it the price? Let me talk to my manager; we might lower the price.
+B: It's not the price. I just don't think it's the right fit for me.
+A: Would you like to see another car at the dealership?
+B: I'm sorry, but I didn't see any other car I liked.
+A: Well, thanks for considering our dealership.
+B: If I change my mind, I will let you know. Thank you.
+
+

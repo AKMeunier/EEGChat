@@ -1,0 +1,15 @@
+
+A: Thank you for coming to our travel agency. How can I help you?
+B: I would like to book a trip to Disney World for my family.
+A: Your family will have much fun. When do you want to go?
+B: We want to go during the summer when the kids have off from school.
+A: I suggest early June because it won't rain too much and the park isn't as crowded as later in the season.
+B: Great! let's do the second week in June.
+A: How many adults and how many children will be travelling?
+B: There are two adults and two children.
+A: Do you have an airline preference?
+B: No. I have no preference as long as the flight is non-stop.
+A: Do you want a budget hotel or a luxury hotel?
+B: Can you book something in between?
+
+

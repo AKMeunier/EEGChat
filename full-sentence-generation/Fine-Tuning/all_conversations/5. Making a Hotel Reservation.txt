@@ -1,0 +1,15 @@
+
+A: Good afternoon! This is the Beach Palace Hotel. How can I help you?
+B: Do you have any rooms available for this weekend?
+A: Yes. How many nights will you be staying?
+B: My wife and I would like to stay for two nights.
+A: Do you want a room with a view of the beach?
+B: Is that more expensive?
+A: The room without a view is 200 dollars a night.
+B: How much is a room with a view?
+A: A room with a view is $300 a night.
+B: Is there a room with a partial view?
+A: There is a room with an obstructed view.
+B: I'll take it, but only if it's less than $300.
+
+

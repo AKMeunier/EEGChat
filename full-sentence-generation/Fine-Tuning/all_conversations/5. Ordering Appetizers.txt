@@ -1,0 +1,15 @@
+
+A: Now that you have your beverages, can I offer you some appetizers?
+B: Yes, that sounds good. What do you have?
+A: We have a wide selection of tempting appetizers.
+B: May I see a menu, please?
+A: Certainly. It's on the regular menu under "Appetizers."
+B: Can you recommend something?
+A: Of course. The potato skins are very popular.
+B: Hmmm. I don't like potatoes much. What else you got?
+A: How about some stuffed mushrooms, or fried zucchini?
+B: That sounds better, but I'm still not sold.
+A: We have an appetizer platter that includes all our selections.
+B: That sounds excellent. Let's have it.
+
+

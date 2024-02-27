@@ -1,0 +1,13 @@
+
+A: I'm trying to get to the city of Lakewood. Does this bus take me there?
+B: No, I'm sorry. You're going to have to make a transfer.
+A: Can't I simply get on another bus?
+B: You could, but you would have to pay again.
+A: I don't think I want to pay again.
+B: Especially when a transfer is free.
+A: How do I get a transfer?
+B: All you have to do is approach the bus driver and ask for one.
+A: Alright, I will do that right now. Thanks for the help.
+B: Have a safe bus ride.
+
+

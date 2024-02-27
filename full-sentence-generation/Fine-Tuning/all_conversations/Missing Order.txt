@@ -1,0 +1,10 @@
+Sales clerk:  Can I help you?
+Customer:  I ordered a table a few weeks ago, but it still has not arrived.
+Sales clerk:  Do you have the order number or your receipt?  
+Customer:  No.  Unfortunately, I lost them both.
+Sales clerk:  I see.  I can try to look it up with your address or phone number.
+Customer:  Here is both my address and phone number.
+Sales clerk:  I found your item.  It was delivered to a different address.  
+Customer:  So, what will you do about it?
+Sales clerk:  I am very sorry for the error.  We will send a replacement table to your correct address as soon as possible.  
+Customer:  Thank you for your wonderful customer service.

@@ -1,0 +1,17 @@
+
+A: Excuse me, sir. Care to help me?
+B: What can I do for you?
+A: I'm trying to make way back home, and I'm not sure what bus to take.
+B: Where do you live?
+A: I live in the city of Bell.
+B: I've never heard of that city.
+A: I'm not surprised you haven't. It's not a big city.
+B: What are the surrounding cities?
+A: They're Maywood, Huntington Park, and Downey.
+B: I'm familiar with the city of Downey.
+A: Would you know how to get there by bus?
+B: Yes. Take 764 bus northbound.
+A: Thank you. I'll find my home from there.
+B: You're welcome. Good luck, and take care.
+
+

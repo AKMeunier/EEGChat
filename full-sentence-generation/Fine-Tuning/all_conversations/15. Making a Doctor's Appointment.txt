@@ -1,0 +1,15 @@
+B: Hello at Dr. Taylors doctor's office.
+A: I need to make an appointment to see Dr. Taylor.
+B: Are you already a patient of Dr. Taylor?
+A: No, this is the first time I've been seeing him.
+B: What kind of appointment is this?
+A: It's for my annual physical.
+B: Can you tell me what insurance you have?
+A: I have Blue Cross.
+B: The earliest appointment I can give you is Wednesday, September 3 at 10 in the morning.
+A: That works for me.
+B: Please bring in your health insurance cards when you come in on that day.
+A: Will you send me a reminder in the mail?
+B: If you give us your phone number, we will remind you the day before.
+
+

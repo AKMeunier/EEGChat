@@ -1,0 +1,15 @@
+
+A: Thank you for coming in today. I'll see you next week.
+B: Excuse me, instructor. May I speak with you for a moment?
+A: Sure thing, Mr. Davis. What can I help you with?
+B: Well, about next week. I can't make it.
+A: That is a problem. You are mandated by court to attend every week.
+B: I know, but I have a family emergency.
+A: You have to go to the court and ask for an extension.
+B: Do I have to come back over here after?
+A: No, they will give you a make-up date.
+B: Great. Thank you for all your help.
+A: Sure thing. I hope everything is alright.
+B: Thanks. I'll see you next time.
+
+

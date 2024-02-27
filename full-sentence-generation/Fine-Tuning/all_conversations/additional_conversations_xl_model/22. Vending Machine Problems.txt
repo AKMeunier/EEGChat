@@ -1,0 +1,15 @@
+
+A: Why are you taking so long? Is something wrong?
+B: Sorry, my bag of chips got stuck.
+A: Vending machines suck, huh?
+B: They're the worst, but the food is great.
+A: It might come out if someone buys an item from the same column yours is on.
+B: Can you be that "someone?"
+A: Sure, why not? I could use some chips.
+B: Thanks! Hey, what is your name?
+A: My name is Charlie.
+B: Nice to meet you, Charlie.
+A: What is your name?
+B: Hater of Vending Machines.
+
+

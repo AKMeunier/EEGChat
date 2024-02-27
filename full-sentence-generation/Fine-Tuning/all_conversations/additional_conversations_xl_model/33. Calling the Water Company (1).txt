@@ -1,0 +1,15 @@
+
+A: Hello, is this the water company?
+B: Yes it is. How can I help you?
+A: I just moved into my first home. I have a few questions.
+B: Alright. What questions do you have?
+A: What are my payment options?
+B: You can pay online, by mail, or in person at designated areas.
+A: Are you guys responsible for any plumbing problems?
+B: The costumer is responsible for their home plumbing problems.
+A: What information do you need in order to begin my water service?
+B: We will need your full name, social security number, and the address to your home.
+A: Thank you. That is all I need to know.
+B: You're welcome. Thank you for calling. Have a nice day.
+
+

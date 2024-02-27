@@ -1,0 +1,15 @@
+
+A: I'm ready to check out.
+B: Give me your room key, and tell me your room number, please?
+A: Here's the key. I was in room 250.
+B: Let me print out a copy of all your charges for your review.
+A: This looks right.
+B: Excellent! Will you be paying with the credit card you used when you checked in?
+A: Yeah, just charge the total to that.
+B: I just need your signature and you're all set.
+A: Thanks so much. I had a wonderful stay.
+B: I hope you will stay with us again in the future.
+A: I stay here all the time when I'm in town on business.
+B: In that case, we'll see you soon.
+
+

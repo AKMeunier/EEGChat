@@ -1,0 +1,10 @@
+Sales clerk:  Hello.  How can I help you?
+Customer:  I bought a laptop last week and I'm not happy with it.
+Sales clerk:  What is wrong with it?
+Customer:  It is very slow.
+Sales clerk:  We can definitely help you with that problem.  Can you bring it to the store today?
+Customer:  Yes.  Can I bring it after work around 6 PM?
+Sales clerk:  Absolutely!  I will try to find out what the problem is.
+Customer:  Thank you!  This is great after sales service.  
+Sales clerk:  We think supporting our customers after the purchase is also very important.
+Customer:  I will definitely be back for your other products.

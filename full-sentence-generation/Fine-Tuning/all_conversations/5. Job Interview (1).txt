@@ -1,0 +1,15 @@
+
+A: Good morning. My name is Robert Stevens.
+B: Good morning, Mr. Stevens. My name is Richard Jones.
+A: Please have a seat, and let's get started.
+B: Thank you, Mr. Stevens.
+A: Please call me Robert, and I'll call you Richard. We are informal here.
+B: That's good to know, Robert. Thanks.
+A: I see you have two years experience. Can you tell me a little about that?
+B: Oh, yes. I worked in the mailroom at Acme Corporation last year.
+A: Go on, please.
+B: It was a temporary job, but I gained a lot of experience.
+A: Excellent! We are always looking for someone with experience.
+B: I think this experience will help me blend into a job working here.
+
+

@@ -1,0 +1,14 @@
+
+A: I'm interested in signing up for your cable service.
+B: Alright, please choose the package you'd like.
+A: Does this package get me all the movie channels?
+B: I'm afraid not. This is the basic package.
+A: How much is it for the movie channels?
+B: That package is an extra $20 a month.
+A: That's going to cost me an arm and a leg!
+B: You'll also get the premium sports channels.
+A: Well, that does sound tempting.
+B: If you sign up for our email updates, I'll give you a discount.
+A: Alright, I'll take the premium package.
+B: You've made a wonderful choice.
+

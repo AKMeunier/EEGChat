@@ -1,0 +1,15 @@
+
+A: Help, please. My key won't open the front door to my apartment.
+B: Oh, no. Let me try to help you.
+A: Thank you, but I don't think there's much you can do.
+B: Don't be so pessimistic. I'll help you unlock that door.
+A: I already tried using the key. There's no use in trying anymore.
+B: I have another idea. Care to hear it?
+A: Alright, I don't have any other options.
+B: Let me drive you to a locksmith.
+A: What good will that do?
+B: A locksmith can replace your key. The one you have now is probably broken.
+A: It's worth a try, I guess.
+B: There's the spirit! Come on, let's go.
+
+

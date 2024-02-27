@@ -1,0 +1,15 @@
+
+A: Do you know which bus will get me from Maywood to Cal State LA?
+B: Yes, I do. You'll need to take two buses.
+A: Which bus should I take first?
+B: You'll need to take the 260 on Atlantic all the way to Garvey.
+A: Which bus do I take after that?
+B: You'll have to take the 70 bus.
+A: Will I find the 70 bus stop immediately?
+B: Yes. You'll find it right across the street after you get off the 260.
+A: How long might the whole trip take?
+B: It might take you about 40 minutes to an hour depending on traffic.
+A: Alright. Thank you very much.
+B: You're welcome. Glad I could help.
+
+

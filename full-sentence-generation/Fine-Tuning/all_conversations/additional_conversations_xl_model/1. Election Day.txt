@@ -1,0 +1,15 @@
+
+A: Are you voting?
+B: Is Election Day coming up?
+A: It is. Election day is the first Tuesday in November.
+B: I'm not sure if I'm even registered.
+A: Did you fill out a registration form?
+B: I did, and I think I got a card in the mail.
+A: That's your voter card. So you are all set.
+B: Are you going to vote?
+A: I am going to vote. Why don't we go together?
+B: That's a great idea. I still need to decide who I'm voting for.
+A: I received so many mailings from all the candidates.
+B: I'm going to go to your house and read them to help me decide.
+
+

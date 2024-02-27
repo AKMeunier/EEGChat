@@ -1,0 +1,17 @@
+
+A: Please have a seat.
+B: Thank you.
+A: I am very disappointed in you.
+B: I know. Believe me, I tried very hard to make your deadline.
+A: I was depending on that report.
+B: I know, but unexpected circumstances came up.
+A: Unexpected circumstances?
+B: Yes. I would have had it ready in time, but the computer crashed.
+A: The company computer crashed?
+B: Yes, it did. I had weeks of saved work on it when it crashed.
+A: So your report was ready?
+B: Yes, it was. The crash deleted all my work.
+A: Okay, I'll check with IT. Thanks.
+B: You're welcome.
+
+

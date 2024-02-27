@@ -1,0 +1,15 @@
+
+A: Your Honour, I'd like to challenge this ticket.
+B: What is your reason for challenging this ticket?
+A: The police officer did not have the right to issue the ticket.
+B: Can you explain what you mean with that statement?
+A: I was rightfully parked. He told me that I was parked in a handicap space.
+B: Well, was it a handicap space?
+A: It used to be. It is not anymore.
+B: Well, was there a sign letting you know it was a handicap space?
+A: No, because the spot has since been removed.
+B: So, did you explain to the officer that it was no longer a handicap space.
+A: I tried, but he wouldn't listen. He said I was trying to get away from paying.
+B: Thank you. I will question the officer, and get his side of the story.
+
+

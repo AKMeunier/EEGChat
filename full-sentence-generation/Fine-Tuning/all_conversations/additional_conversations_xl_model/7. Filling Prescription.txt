@@ -1,0 +1,15 @@
+
+A: My doctor gave me this prescription.
+B: Can I have the paper and your insurance card?
+A: How long will this take to be filled?
+B: We can have this filled within an hour.
+A: Is there any way to fill it faster? I'm in so much pain.
+B: Unfortunately there are other prescriptions to fill.
+A: What am I supposed to do for the hour?
+B: We can call you when the prescription is ready.
+A: So I can go home and take a nap.
+B: Just leave your number here at the pharmacy and we'll call you.
+A: Can I send someone else to pick up the prescription?
+B: Your medication is a controlled substance so the person needs to be over 18.
+
+

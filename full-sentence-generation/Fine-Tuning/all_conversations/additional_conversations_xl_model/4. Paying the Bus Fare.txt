@@ -1,0 +1,15 @@
+
+A: Hello, bus driver. How are you doing today?
+B: Good afternoon. I'm doing just fine.
+A: This is my first time taking the bus.
+B: Is that so? I hope you have enough change for the bus fare.
+A: Yes, I do. Don't you worry about a thing.
+B: That's good. Just put your money into the machine and take a seat.
+A: It's one dollar and fifty cents for the fare, correct?
+B: Yes, that's correct.
+A: Thank you. There you are. I told you I had enough.
+B: Thank you, you're fine to sit down now.
+A: Is there anywhere I can't sit?
+B: The front seats hold priority for the elderly and disabled.
+
+

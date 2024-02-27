@@ -1,0 +1,17 @@
+
+A: I need to wash my clothes.
+B: As a tenant of this apartment, you have access to the washer and dryer.
+A: Is that so? I didn't know that.
+B: It's good that you know now.
+A: Are there any laundry rules I should know about?
+B: Yes. There are certain hours you are allowed to use the laundry room.
+A: What are the hours?
+B: You are only allowed to wash clothes from 6:00 a.m. to 10:00 p.m.
+A: That's good to know. Is there anything else I should know?
+B: You're responsible for your belongings.
+A: Well, that's common knowledge.
+B: Also, there is no food or drink allowed in the laundry room.
+A: Thanks for going over the rules and hours with me.
+B: It was my pleasure to help a fellow neighbor.
+
+

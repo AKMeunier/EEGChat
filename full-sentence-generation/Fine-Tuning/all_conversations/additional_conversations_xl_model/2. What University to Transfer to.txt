@@ -1,0 +1,15 @@
+
+A: I don't know what university to transfer to.
+B: There's a lot, so it's all about picking what suits your needs.
+A: For starters, I would like a university in a safe area.
+B: Okay, what else are you thinking about?
+A: I want to live close to home.
+B: I think UC Irvine would be good.
+A: I don't think that's good for my major.
+B: What's your major?
+A: I'm majoring in philosophy.
+B: Yeah, you're right. UCI is not good for philosophy.
+A: I also want to go to a college that will increase my job opportunities.
+B: Let's go do some online research.
+
+

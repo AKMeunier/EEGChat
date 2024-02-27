@@ -1,0 +1,17 @@
+
+A: You seem a little lost.
+B: I actually am lost. How could you tell?
+A: The look on your face said it all.
+B: Maybe you could help me.
+A: I'd be happy to help.
+B: I'm not sure what bus I'm supposed to take.
+A: What's your destination?
+B: I'm heading to Westwood.
+A: I've been there several times by bus.
+B: You have? What bus did you take?
+A: The Line 720 takes you directly there.
+B: Where is the stop for that bus?
+A: Right at the corner over there.
+B: Thank you very much.
+
+

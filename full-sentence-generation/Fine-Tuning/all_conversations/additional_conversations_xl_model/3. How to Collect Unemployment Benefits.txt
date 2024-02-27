@@ -1,0 +1,15 @@
+
+A: Hello. What are you doing here?
+B: Hi! I lost my job, so here I am at the EDD.
+A: That's rough. I lost my job three months ago.
+B: I didn't know that. Maybe you can help me apply.
+A: Sure, I can help. You just need some basic information about your job history.
+B: I have that information for the company I last worked for.
+A: They ask for information on all places you worked for the last 18 months.
+B: I can get that. What else do they ask?
+A: Name, residence, addresses, that kind of stuff, and most importantly, why you're not working.
+B: You mean if I quit, or was fired.
+A: Yes, and be truthful. They will call your former employers.
+A: Thanks. That helps a lot.
+
+

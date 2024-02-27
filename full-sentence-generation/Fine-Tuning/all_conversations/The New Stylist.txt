@@ -1,0 +1,10 @@
+Helen:  I would like to make a haircut appointment with Ann.
+Receptionist:  Ann does not work here anymore.  
+Helen:  When did Ann leave?  She was a great hair stylist.
+Receptionist:  She moved out of the state last month.  
+Helen:  Is there anyone else you recommend?
+Receptionist:  Jane is a great stylist.
+Helen:  OK.  I will try her.  
+Receptionist:  She has an opening tomorrow at 4 PM.
+Helen:  I will take it.
+Receptionist:  You will love Jane.

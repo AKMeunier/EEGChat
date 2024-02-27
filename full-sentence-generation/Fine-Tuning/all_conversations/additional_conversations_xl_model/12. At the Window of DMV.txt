@@ -1,0 +1,17 @@
+
+A: Hello, I'm here to renew my registration.
+B: Okay, may I please have your renewal notice?
+A: Yes, here it is. Do you need my driver's license?
+B: No, this is fine. It seems you missed your deadline.
+A: Yes, I completely forgot.
+B: Well, it's going to cost you a bit more to renew it.
+A: How much more will it cost?
+B: It was going to be $88, now it's going to be $120.
+A: Well, I guess I'm going to have to be more careful.
+B: It would be a good idea. Have you done the smog check?
+A: No, is that required?
+B: It is this year. You'll have to do it again two years from now.
+A: Can I come back tomorrow?
+B: Yes. Don't wait in line. Come directly to me.
+
+

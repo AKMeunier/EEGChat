@@ -1,0 +1,15 @@
+B: Hello!
+A: I'd like to file a complaint.
+B: Of course you want to file a complaint.
+A: Are you the on-duty supervisor?
+B: I am the on-duty supervisor.
+A: Than you can take my complaint.
+B: What is the nature of your complaint?
+A: My neighbor is illegally dumping garbage in my yard.
+B: Would you like us to send some officers to speak to him?
+A: They already did that and he is still throwing nasty garbage in my yard.
+B: All right, you're going to have to see the community police officer upstairs on the third floor.
+A: They will take my complaint?
+B: Yes, they will take it and conduct a full investigation.
+
+

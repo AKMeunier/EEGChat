@@ -1,0 +1,15 @@
+
+A: I'm checking in.
+B: What name is the reservation under?
+A: It is under my name, Michael Roberts.
+B: Can I see your identification, please?
+A: Here is my driver's license.
+B: I have you staying for two nights. Is that correct?
+A: That's correct.
+B: I need a credit card for any incidentals.
+A: I don't plan on using the phone or the mini-bar.
+B: I still need a credit card though.
+A: Can I pay cash?
+B: You will have to pay a $200 cash deposit if you don't want to leave a credit card.
+
+

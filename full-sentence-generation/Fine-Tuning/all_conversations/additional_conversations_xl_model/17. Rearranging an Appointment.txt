@@ -1,0 +1,15 @@
+
+A: Good afternoon. Jet Office Products.
+B: Hello, my name is Richard Lee. I need to reschedule an appointment.
+A: I could help you with that.
+B: I have an appointment for 9 a.m. Tuesday that I need to change.
+A: Who was your appointment with?
+B: I was scheduled to see Mrs. Roberts.
+A: Okay. Thank you for calling.
+B: You're welcome. Can I reschedule?
+A: Yes, of course. When will you be free?
+B: Does Mrs. Roberts have any time on Wednesday?
+A: No, but she's free Thursday afternoon at 1:00 p.m.
+B: That's perfect. Thank you. I'll see her then.
+
+

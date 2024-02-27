@@ -1,0 +1,6 @@
+Store clerk:  May I help you?
+Customer:  I need to buy my wife an anniversary gift.
+Store clerk:  When is your anniversary?
+Customer:  It was yesterday!
+Store clerk:  Oh dear.  How about these diamond earrings?
+Customer:  Perfect.  I will take them.

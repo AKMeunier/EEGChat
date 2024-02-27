@@ -1,0 +1,15 @@
+
+A: Would you like to go see a movie tomorrow night?
+B: I am busy tomorrow night, but I am free the night after.
+A: That's great! What time should I pick you up?
+B: 8 p.m. would be great.
+A: Well, 8 p.m. it is. What movie would you like to see?
+B: I'm not sure. Which movies are out right now?
+A: I actually don't know. How about we choose when we get there?
+B: Sure thing, that sounds great.
+A: Okay, should I pick you up at your house? Or do you want to meet somewhere?
+B: I live by school; if you want, we could meet there.
+A: Sure. I drive a white Nissan Sentra. I'll text you later on, okay?
+B: That sounds great. I'll be waiting for your text.
+
+

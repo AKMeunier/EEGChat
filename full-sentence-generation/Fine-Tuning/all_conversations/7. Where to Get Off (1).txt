@@ -1,0 +1,17 @@
+
+A: What's wrong? You seem unsure about something.
+B: I'm unsure of where to get off the bus.
+A: Where are you coming from?
+B: I got on the bus in Pasadena.
+A: Where are you heading to?
+B: I'm trying to go downtown.
+A: I could tell you where to get off.
+B: You can? That would be very nice of you. Thank you.
+A: I'm happy to help a stranger anytime.
+B: What's the street that I should get off on?
+A: You're going to get off on Wilshire.
+B: How much further is that stop?
+A: The bus is fifteen minutes away from there.
+B: We're pretty close then.
+
+

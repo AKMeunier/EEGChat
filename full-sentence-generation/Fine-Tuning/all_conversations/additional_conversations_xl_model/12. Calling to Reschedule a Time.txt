@@ -1,0 +1,15 @@
+
+A: Hello, may I please talk to a store manager?
+B: Yes. What seems to be the problem?
+A: I scheduled some furniture to be delivered today.
+B: Would you like to change the delivery time?
+A: Yes. Something came up and I won't be home until 3 p.m.
+B: That is not a problem, sir, I'll fix it.
+A: Thank you. I was worried it had already been dispatched.
+B: It's no problem at all.
+A: Please tell the deliverymen to be aware of my dog.
+B: Does he bite, sir?
+A: No, but he may trip someone.
+B: I'll make sure they're on high alert.
+
+

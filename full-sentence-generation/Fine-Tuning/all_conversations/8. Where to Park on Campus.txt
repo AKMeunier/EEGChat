@@ -1,0 +1,15 @@
+
+A: Excuse me. This is my first time on campus. Where can I park?
+B: There are three parking lots on campus.
+A: Can you point me to the direction of the nearest one?
+B: Keep driving straight. When you get to the light, make a left.
+A: Thank you. Do I have to pay?
+B: The first floor has visitors parking.
+A: So, do I have to pay? Do they take credit cards?
+B: Yes, you would have to pay, and they do take credit cards.
+A: How much does it cost to park?
+B: I believe it is $3. I could be wrong.
+A: Oh, okay. Thank you very much.
+B: You're welcome. Have a nice day.
+
+

@@ -1,0 +1,15 @@
+
+A: I cut myself pretty badly with a knife. I think I need stitches.
+B: Come inside so the triage nurse can stop the bleeding.
+A: I was just preparing dinner and my hand slipped.
+B: This cut does need stitches, but I stopped the bleeding for now.
+A: Will you give me stitches right now?
+B: No, since the bleeding has stopped you have to wait in the Emergency Room waiting area.
+A: What do I do while waiting?
+B: Fill out these registration forms.
+A: When will I get my hand stitched up?
+B: Here in the ER we take care of people based on how bad their injury is.
+A: I was here before many of these other people.
+B: Some of them are in worse shape than you.
+
+

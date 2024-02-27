@@ -1,0 +1,17 @@
+
+A: Hey Alice, do you have a stapler I can use?
+B: Of course I do. It's on my desk.
+A: Thanks. Mine broke two weeks ago.
+B: Didn't you put in a office supply request?
+A: I asked Joseph if he would get me one.
+B: I know he's in charge, but you should submit a form.
+A: A form? What form?
+B: An Office Supply form. Don't rely on Joseph. Put it in writing.
+A: Oh, I could use a couple of other supplies, too.
+B: Yes, by all means, get what you need.
+A: Where are these forms?
+B: I'll email it to you. Just print it, and send it in.
+A: Thanks, Alice.
+B: No problem.
+
+

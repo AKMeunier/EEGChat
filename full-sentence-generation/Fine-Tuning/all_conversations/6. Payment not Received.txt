@@ -1,0 +1,15 @@
+
+A: Did you bring the mail in today?
+B: Yeah. I got it right here.
+A: Oh, great. I'm waiting for my unemployment check. It's late.
+B: Sorry to tell you, your payment didn't come today.
+A: No way. Darn it! It's more than a week late!
+B: Why don't you call EDD? I think they can tell you where it is.
+A: I definitely need to call them.
+B: I think it's an automated system.
+A: Oh darn. I don't like automated systems.
+B: The EDD system is not so bad.
+A: Okay, I'll call. This is the longest the check has taken to get to me.
+B: If you have problems with the system, you can speak to a person by dialing "0".
+
+

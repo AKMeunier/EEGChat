@@ -1,0 +1,15 @@
+
+A: This is the perfect birthday cake for my son!
+B: What day do you need the cake?
+A: His party is on Saturday.
+B: Would you like to have it delivered?
+A: Oh yes, please. Sometime in the morning would be perfect.
+B: I can have someone drop it off at 10:30 a.m.
+A: That sounds perfect! It's settled.
+B: Great! That will be $20 for the cake and $5 for delivery.
+A: Can the delivery man enter through the back door?
+B: Of course! Just write down your address, please.
+A: There, all done! I also wrote my phone number.
+B: Alright, thank you! Have a good day!
+
+

@@ -1,0 +1,17 @@
+
+A: I don't recognize any of these streets.
+B: Is this your first time riding this bus?
+A: No, I take this bus to school every day.
+B: This bus always drives by these streets.
+A: Are you sure this is not just a new route.
+B: I'm pretty sure it's not.
+A: Perhaps it could be a detour.
+B: Perhaps you might be on the wrong bus.
+A: There's no way this is the wrong bus.
+B: If you don't believe me, maybe you should go ask the bus driver.
+A: Wait, I don't think I have to. You're right, this is the wrong bus.
+B: I hate to say I told you so, but I told you so.
+A: How could I make such a dumb mistake?
+B: You should get off on the next stop.
+
+

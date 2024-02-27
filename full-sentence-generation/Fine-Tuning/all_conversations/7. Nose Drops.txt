@@ -1,0 +1,15 @@
+
+A: Do you have a cold?
+B: Yes, I do.
+A: How did you get it?
+B: My sister had a cold. She gave it to me.
+A: Have you taken anything for your cold?
+B: No, I just blow my nose a lot.
+A: Your nose is stopped up?
+B: Yes. I have to breathe through my mouth.
+A: Have you tried nose drops?
+B: No, I don't like nose drops.
+A: They work great.
+B: I don't care. I don't like to put drops in my nose.
+
+

@@ -1,0 +1,15 @@
+
+A: This is the first time I've ever had to do a timesheet.
+B: Well, they're very easy to do.
+A: You've done this before. Maybe you can help me.
+B: Sure, I can help.
+A: What do I need?
+B: You'll need your employee number.
+A: Okay, I'll look it up.
+B: Once you have that, all you need to do is log your hours.
+A: I have a good idea what hours I worked this week.
+B: You need to be accurate.
+A: It will be pretty close.
+B: It must be exact. You don't want to cheat the company, or yourself.
+
+

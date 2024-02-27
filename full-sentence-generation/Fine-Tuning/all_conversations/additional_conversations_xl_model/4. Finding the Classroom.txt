@@ -1,0 +1,15 @@
+
+A: It takes me hours to find my classroom.
+B: I might be able to help you.
+A: Really? That would be great!
+B: What's your classroom number?
+A: My classroom number is A21.
+B: So the "A" is the building type.
+A: Okay, but I don't know where that is.
+B: Do you know where the gym is?
+A: Yeah, I do.
+B: Okay, your classroom is behind the gym.
+A: That's really helpful! Thank you.
+B: No problem, and the "21" means it's upstairs.
+
+

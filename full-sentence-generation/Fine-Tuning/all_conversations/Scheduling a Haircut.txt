@@ -1,0 +1,8 @@
+
+Receptionist:  Hello!
+Christine:  I would like to make a haircut appointment.
+Receptionist:  Our next available appointment is today at 3 PM.
+Christine:  I do not get off work until 5 PM.
+Receptionist:  How about tomorrow at 5:30 PM?
+Christine:  That's perfect.
+Receptionist:  Great!  I will send you a reminder tomorrow morning.

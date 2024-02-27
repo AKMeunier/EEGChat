@@ -1,0 +1,15 @@
+
+A: Excuse me. I would like to get a transfer.
+B: Do you have your day pass with you?
+A: It's a month pass. Is that okay?
+B: Yes, that's fine. Please scan your pass on the machine.
+A: Did it scan?
+B: Yes it did. Alright, it's going to cost one dollar for the transfer.
+A: I'm sorry. I don't think I have enough for the transfer.
+B: Is this your first time getting a transfer?
+A: Yes, it is. I thought transfers were free.
+B: I'll let it pass since it's your first time.
+A: Thank you so much. It won't happen again.
+B: Don't mention it. Just be prepared the next time.
+
+

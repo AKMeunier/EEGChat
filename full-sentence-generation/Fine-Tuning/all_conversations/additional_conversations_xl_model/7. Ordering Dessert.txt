@@ -1,0 +1,17 @@
+
+A: Waiter!
+B: Yes, sir. How can I help you?
+A: That was an excellent meal, but we could not finish.
+B: Would you like a doggy-bag to take your leftovers home?
+A: Yes, please. We would.
+B: And did you leave enough room for dessert?
+A: Dessert? Why yes, I think so.
+B: Here is our dessert menu.
+A: Do you have a house specialty?
+B: Yes, we do. It's the apple pie a la mode.
+A: That sounds good. What kind of ice cream do you have?
+B: Vanilla, French vanilla, chocolate, and strawberry.
+A: I'll take the pie a la mode, but put the ice cream on the side, not on top.
+B: Excellent choice! Okay, ice cream on the side.
+
+

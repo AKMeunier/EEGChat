@@ -1,0 +1,15 @@
+
+A: I'm really looking forward to casting my vote today.
+B: Oh really? Why?
+A: I think my candidate will really change the way things are done in our city.
+B: How is that?
+A: Her education policy will help all students.
+B: I'll have to review her policy plan before I vote.
+A: You really should. You're a parent.
+B: What else do you like about the candidate?
+A: Her economic policy will lower the unemployment rate in the city.
+B: I've been unemployed for a while.
+A: Then you should vote for her.
+B: I'll read up on her positions.
+
+

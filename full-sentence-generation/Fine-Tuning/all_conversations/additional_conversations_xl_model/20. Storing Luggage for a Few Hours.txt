@@ -1,0 +1,15 @@
+
+A: I'm checking out, but is there a place I can store my luggage for a few hours?
+B: Why do you need us to hold your luggage, sir?
+A: My flight doesn't leave for another four hours.
+B: We can hold your luggage, but there is an additional cost associated with that service.
+A: How much is it going to cost me?
+B: It will be $6 an hour.
+A: I'm going to drink at your hotel bar. Can you hook me up?
+B: Unfortunately, sir, we cannot. Shall I take your credit card?
+A: No, forget it. It's cheaper for me to use a locker at the airport.
+B: Those airport lockers are not always safe though.
+A: I'll take my chances.
+B: Good luck with that, sir.
+
+

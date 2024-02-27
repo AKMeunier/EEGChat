@@ -1,0 +1,15 @@
+
+A: The test drive went well. How much are you asking for?
+B: I am selling the car for $10,000.
+A: Oh, wow. That's a little steep, don't you think?
+B: What were you thinking? Keep in mind, it's in perfect condition.
+A: Well, I would want to take it to my mechanic first.
+B: From the test drive, what price are you thinking?
+A: I was thinking $7,500.
+B: I can't do that price. I've put a lot of work into this car.
+A: Let's cut to the chase. What's your minimum price?
+B: I can let it go for an extra grand.
+A: So, you would let it go for $8,500?
+B: Yes, that would be fine.
+
+

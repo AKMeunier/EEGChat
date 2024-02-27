@@ -1,0 +1,15 @@
+
+A: Can I leave a package here to be picked up?
+B: Absolutely, sir. What is your name?
+A: I'm Bill Collins. My room is 108.
+B: Who will be picking up the package?
+A: It's my girlfriend, Katie Black.
+B: She will have to present identification when she picks it up.
+A: That's fine. I'll let her know.
+B: What time will she be picking the package up?
+A: She'll be here after 2 p.m. Is that all right?
+B: Not a problem at all. Could you just write all the info down?
+A: Why did I bother telling you everything then?
+B: Writing it down will make sure that if I'm not here someone will know what to do.
+
+

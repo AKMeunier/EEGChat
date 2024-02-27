@@ -1,0 +1,17 @@
+
+A: Have you checked your smoke detectors recently?
+B: No, I wasn't even aware we had smoke detectors.
+A: All the apartments are equipped with them. It's an essential safety feature.
+B: How do you check if they're working?
+A: It's real easy. If you like, I could show you.
+B: That would be nice of you.
+A: Are you doing anything right now?
+B: No. It's my day off work.
+A: How about I come over and show you how to check them?
+B: Sounds good. Come inside.
+A: It's really easy to check them. Just grab one from the wall, and check the battery in the back.
+B: What does this light mean?
+A: If you see the light, that means it's functioning.
+B: So I don't need to replace the battery. Thank you so much.
+
+

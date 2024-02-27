@@ -1,0 +1,15 @@
+
+A: Hello, Mr. Rogers. How are you today?
+B: I'm doing well, Wendy. How are you?
+A: I'm great, thanks. So are you ready to make a decision?
+B: I certainly am. I'm going with your firm.
+A: Oh, that's great news, Mr. Rogers.
+B: Okay, so what's next?
+A: I have a standard contract we use. You can look it over if you like.
+B: Sure I will, but can you give me an overview?
+A: It basically reads that you agree to have us act as your agent.
+B: I still have the final say on the deal though, right?
+A: Of course, you do, Mr. Rogers.
+B: I just wanted to be clear on that. Thanks.
+
+

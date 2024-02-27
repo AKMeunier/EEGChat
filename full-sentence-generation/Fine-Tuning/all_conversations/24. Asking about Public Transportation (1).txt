@@ -1,0 +1,15 @@
+
+A: Do any public buses run nearby?
+B: Yes, in fact many buses do.
+A: Can you tell me where I can catch them?
+B: Down the street the 260 bus picks you up and takes you to Los Angeles.
+A: How frequently does it pass?
+B: That bus passes every 30 minutes.
+A: How much is the fare?
+B: For most it's two dollars and fifty cents.
+A: Is it possible to buy some kind of pass for the bus?
+B: Yes, you can. There are daily, weekly, and monthly passes you can purchase.
+A: Do you know the cost of them?
+B: If I'm not mistaken, it's five dollars for the day, twenty dollars for the week, and fifty for the month.
+
+

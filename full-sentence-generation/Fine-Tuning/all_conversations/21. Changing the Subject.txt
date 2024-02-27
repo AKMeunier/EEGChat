@@ -1,0 +1,15 @@
+
+A: Can I ask you a question?
+B: Sure, go ahead.
+A: How is your relationship with your parents?
+B: It's good. I get along with my father more than I do with my mother.
+A: If I may ask, why is that?
+B: I'm not comfortable answering that. Why are you asking?
+A: It's for a class project. Why don't you get along with your mother?
+B: What class are you doing this for?
+A: It's for my psychology class. Do you live with your dad or mom?
+B: I live with my dad.
+A: Do you think that's why you don't get along with your mom?
+B: I said I'm not comfortable talking about that. Change the subject.
+
+

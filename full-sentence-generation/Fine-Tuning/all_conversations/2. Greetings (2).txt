@@ -1,0 +1,15 @@
+
+A: Good morning. How are you today?
+B: I'm fantastic. How about yourself?
+A: That's great! I'm good, but I feel a little sick.
+B: That's not good. I heard there is a flu going around.
+A: Well, I have to be sure to take good care of myself.
+B: Sucks that you aren't feeling well, it's a nice day.
+A: It is. The sunshine makes me want to go to the beach.
+B: That's a great idea, but I think you'll get sicker if you go.
+A: True. Perhaps we can go some other time?
+B: For sure. Let's get together next week and go if you're better.
+A: Sounds like a plan. I'll talk to you later.
+B: Cool, see you later.
+
+

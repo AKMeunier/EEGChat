@@ -1,0 +1,15 @@
+
+A: Hello. I'm new to the apartments. I have a question.
+B: Hello, and welcome. What do you need to know?
+A: Is there anything about parking my car that I need to know?
+B: You have an assigned parking spot behind the building.
+A: Are there other parking spots available?
+B: Yes. We have several unassigned spots for visitors.
+A: Where are those visitor parking spots located?
+B: Behind the building as well.
+A: What if all parking spots are filled up?
+B: You could park in the streets, but you might be ticketed if you fail to follow rules.
+A: Could you show me how to enter the parking area?
+B: Yeah, I'll show you. Follow me.
+
+

@@ -1,0 +1,15 @@
+
+A: Come in, please. Take a seat wherever you like.
+B: Thank you. It's been a long and hot day.
+A: It has been a hot one. Would you like something to drink?
+B: What do you have?
+A: We have soda, juice, and bottled water.
+B: I'll take bottled water, and my wife would like one, too.
+A: Sounds good. Would you like it in a glass with ice?
+B: Yes, that sounds wonderful.
+A: We also have some slices of pineapple. Would you like some?
+B: Pineapple would hit the spot. I would love some.
+A: Does your wife want some as well?
+B: Actually, she doesn't like pineapple. Thanks, anyway.
+
+

@@ -1,0 +1,15 @@
+
+A: Does this bus stop at Normandy Street?
+B: Yes, it does. Is that your stop?
+A: Yes, it is. How much further until the bus gets there?
+B: Actually, the bus passed by Normandy Street ten minutes ago.
+A: I missed my bus stop? Darn it, I knew this would happen to me.
+B: Are you on your way to work?
+A: Fortunately I'm not, or else I would've been running late.
+B: Are you meeting a friend?
+A: Yes, I am actually. I'm going to have to call him, and tell him I missed my stop.
+B: You should get off on the upcoming stop.
+A: Good idea. I'll just walk back to Normandy.
+B: It might be a long walk.
+
+

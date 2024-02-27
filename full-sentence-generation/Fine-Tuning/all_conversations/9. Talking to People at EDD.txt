@@ -1,0 +1,14 @@
+
+B: Hello, How can I help you?
+A: I'm trying to file a claim online, but I have questions.
+B: Okay, give me a moment and I'll go over there to help you.
+A: Hello again. Thanks for coming over.
+B: It's my pleasure. What are you having trouble with?
+A: It's this question here. I'm not sure what it is asking for.
+B: The system is asking for the reason you are no longer working.
+A: Does that make a difference?
+B: Yes it does. We review every person's case individually.
+A: My company went out of business.
+B: Then just put "Company out of business." You should be okay.
+
+

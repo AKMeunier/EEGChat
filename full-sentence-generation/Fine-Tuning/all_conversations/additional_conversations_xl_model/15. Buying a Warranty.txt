@@ -1,0 +1,15 @@
+
+A: I would like to buy this new laptop, please.
+B: Would you like to buy the warranty?
+A: What is a warranty?
+B: It's something that fixes your machine should it break.
+A: How does it work?
+B: If your laptop breaks, just bring it in and we'll fix it.
+A: How much is the laptop?
+B: It costs $550 without tax.
+A: How much is the warranty?
+B: The warranty is $40 for two years.
+A: I think I'll be fine with just the laptop.
+B: Alright, but you can always change your mind.
+
+

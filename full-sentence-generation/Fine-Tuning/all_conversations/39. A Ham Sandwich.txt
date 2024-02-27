@@ -1,0 +1,15 @@
+
+A: What is there to eat?
+B: I don't know. Look in the fridge.
+A: I think I'll make a sandwich.
+B: What kind?
+A: A ham sandwich.
+B: The bread is in the cabinet.
+A: Where's the mustard?
+B: It's in the fridge, I think.
+A: Oh, yes, here it is. Do you want a sandwich?
+B: Yes, that sounds nice.
+A: How about some potato chips?
+B: Yes. And a pickle, if we have any.
+
+

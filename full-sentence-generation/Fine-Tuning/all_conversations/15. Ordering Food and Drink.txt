@@ -1,0 +1,15 @@
+
+A: Can I get you something to eat or drink?
+B: I'd like a coffee and a breakfast sandwich.
+A: The coffee is complimentary, but the sandwich costs five dollars.
+B: So much for a measly sandwich?!
+A: Will that be all for you?
+B: For now, but if I'm hungry or thirsty later, can I have something else?
+A: As long as it's before we land.
+B: What else can I have to eat or drink?
+A: There is a menu in your seatback pocket.
+B: How do I get your attention when I'm ready to order something else?
+A: Just press the button above your head with the image of a person.
+B: Can I have a copy of my receipt?
+
+

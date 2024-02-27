@@ -1,0 +1,17 @@
+
+A: Are you ready to order?
+B: Yes, I think we are, thank you.
+A: Okay, what can I get you?
+B: I like the look of that plate on the next table.
+A: Oh yes, sir. That's our seafood platter.
+B: What does it come with?
+A: Fried white fish, shrimp, and scallops, along with fries, and vegetables.
+B: Does it come with a salad?
+A: Of course. It comes with the soup of the day, and a green salad.
+B: What's the soup of the day.
+A: Today's soup is clam chowder.
+B: Is that New England, or Manhattan style?
+A: It is the creamy-white, New England style.
+B: Oh, that's my favorite. I'll take the soup.
+
+

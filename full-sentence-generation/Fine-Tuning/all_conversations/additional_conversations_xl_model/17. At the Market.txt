@@ -1,0 +1,15 @@
+
+A: I can't find the jasmine rice!
+B: Isn't it in the rice section?
+A: No, they don't have it here.
+B: Let's check again. Is it this one?
+A: No, that's short grain white rice.
+B: What about this one? It's longer.
+A: No, that's brown rice.
+B: How are we supposed to find jasmine rice?
+A: Oh, I see more rice in another isle.
+B: I found it in the international section.
+A: I find it funny that Americans think this rice is exotic!
+B: Me, too! But Americans call everything different exotic.
+
+

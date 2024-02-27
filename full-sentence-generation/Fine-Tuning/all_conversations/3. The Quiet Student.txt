@@ -1,0 +1,15 @@
+
+A: Hi, I'm James. What's your name?
+B: Hi James. My name is Lisa.
+A: I'm taking this class because it seems interesting. Why are you?
+B: I'm taking this class because it's a requirement.
+A: We should get to know each other.
+B: I don't think so. I like keeping to myself.
+A: So you don't like meeting new students?
+B: Nope. I would rather just be alone.
+A: That is so sad!
+B: It's not. It's really peaceful and self-empowering.
+A: Can we at least study together?
+B: Nope, we can't do that.
+
+

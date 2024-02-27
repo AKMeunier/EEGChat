@@ -1,0 +1,15 @@
+
+A: You are allowed two carry-on items on this flight.
+B: Can I bring on this suitcase?
+A: It looks smaller than 45 inches, so it should fit in the overhead compartment.
+B: I don't want to put my computer bag in the overhead though.
+A: The laptop bag can go underneath the seat in front of you.
+B: It's cold in Buffalo, so can I bring my coat?
+A: Your coat doesn't count as a carry-on.
+B: I have a separate bag with a tuna sandwich I just bought.
+A: The bag of food doesn't count as a carry-on.
+B: This pillow doesn't fit in my bag either and I need it for the flight.
+A: You can bring a pillow or blanket, too.
+B: I forgot my blanket at home.
+
+

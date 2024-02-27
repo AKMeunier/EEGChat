@@ -1,0 +1,15 @@
+
+A: You have called the Water Company. How may I assist you?
+B: Hello, I recently moved into my apartment.
+A: Are you calling to activate your billing?
+B: Yes, that's one of the things I'm calling about.
+A: What was the other reason for your calling today?
+B: There is leakage in one of the pipelines. Is there anything you can do about that?
+A: No, I'm sorry. But I could provide you contact with one of our plumbers.
+B: No, that's not necessary, but thank you.
+A: As for your billing, what form of payment would you like to have?
+B: Can I pay online?
+A: Yes, that is a service we do provide for our customers.
+B: Alright, I think I'll go with that form of payment.
+
+

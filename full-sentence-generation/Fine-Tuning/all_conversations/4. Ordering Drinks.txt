@@ -1,0 +1,15 @@
+
+A: Good Evening. I am Joseph, and I'll be your waiter tonight.
+B: Hello, Joseph.
+A: Can I start you off with some refreshments?
+B: Yes, you can. I'll take a Long Island Iced Tea.
+A: And for the lady?
+B: She will have a vodka martini.
+A: Those are excellent choices. How about the kids?
+B: They will take regular iced teas.
+A: Will there be anything else?
+B: Yes, as a matter of fact. Can you bring me a beer chaser?
+A: Certainly. What kind of beer would you like?
+B: I want something imported. How about something from Mexico?
+
+

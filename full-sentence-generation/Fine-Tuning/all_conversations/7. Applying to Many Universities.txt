@@ -1,0 +1,15 @@
+
+A: How many universities are you applying to?
+B: I'm applying to 12 universities.
+A: Wow! That's a lot!
+B: I just want a lot of options.
+A: But it costs a lot of money and time!
+B: I get fee waivers.
+A: But how about the time? I mean, applying is a lot of work.
+B: College applications ask similar questions.
+A: Good for you. I'm only applying to three universities.
+B: Which ones are you applying to?
+A: CSULA, UC Irvine, and Yale.
+B: I find it hard to believe that you can limit yourself to only three universities.
+
+

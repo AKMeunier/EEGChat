@@ -1,0 +1,15 @@
+
+A: Do you ever take public transportation to get around?
+B: Before I frequently did. Not so much anymore. Why do you ask?
+A: I wanted some information about the public transportation that is available in the city.
+B: I could provide you with some. What would you like to know?
+A: What kind of public transportation is there?
+B: There is a local shuttle bus that could take you almost anywhere in the city.
+A: It does not take you outside the city?
+B: Unfortunately it does not. But it's cheaper than other public buses that do.
+A: I see. And where is the nearest stop from here?
+B: It's really close. Just a block away towards that direction.
+A: That way? I see. Thank you.
+B: You can't miss it, and you're welcome.
+
+

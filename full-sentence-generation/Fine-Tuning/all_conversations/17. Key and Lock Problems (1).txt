@@ -1,0 +1,16 @@
+
+A: Are you locked out of your apartment?
+B: It appears that I am.
+A: Did you forget your key inside your apartment?
+B: No. I think I lost it somewhere in the city.
+A: That's unfortunate. I think I could help you.
+B: Really? Do you have another key?
+A: No, but the landlord does.
+B: He doesn't live here though.
+A: I have his phone number. I'll just give him a call.
+B: Thank you. If you want, I'll talk to him myself.
+A: No, don't worry. I talk to him for you.
+B: Please I insist. I should be the one to ask for help since I'm the one who's in need of it.
+A: Alright, suit yourself.
+
+

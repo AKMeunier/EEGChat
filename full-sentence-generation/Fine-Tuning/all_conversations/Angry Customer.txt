@@ -1,0 +1,12 @@
+Sales clerk:  Can I help you?
+Customer:  I want to speak with the manager.
+Sales clerk:  Is there a problem?
+Customer:  Yes!  These shoes do not fit.
+Sales clerk:  Do you have the receipt?
+Customer:  Yes.  I want a refund.
+Sales clerk:  This was a sale item.  We do not give refunds on sale items.
+Customer:  I didn't know that.
+Sales clerk:  It's on the receipt.
+Customer:  Who reads the receipt?
+Sales clerk:  I'm sorry, but that is our store policy.
+Customer:  I am calling my lawyer!

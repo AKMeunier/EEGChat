@@ -1,0 +1,15 @@
+
+A: Your blood pressure is very high.
+B: What does high blood pressure mean?
+A: High blood pressure or hypertension means that there is a lot of pressure on your arteries.
+B: That doesn't sound very good.
+A: It isn't very good because it means you are at higher risk to develop heart disease.
+B: I feel fine, though.
+A: High blood pressure is called a silent killer.
+B: What causes high blood pressure?
+A: It could be the sign of some other diseases.
+B: I am already taking medication.
+A: You should tell me the medications you are taking because some meds cause high blood pressure.
+B: I'd better change my lifestyle.
+
+

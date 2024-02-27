@@ -1,0 +1,15 @@
+
+A: This is a great book you're checking out.
+B: You have read it?
+A: Read it? I memorized it! It's one of my favorites.
+B: That's good to know.
+A: You should check out more books.
+B: I can check out more than one?
+A: Of course! It would be crazy if you could only get one book.
+B: That's awesome! I'll be back.
+A: Don't go crazy now. The limit is 15 books.
+B: Don't worry. I'll probably come back with 5 more books.
+A: It's great to see a kid excited about reading.
+B: Yeah, most kids hate reading. They're more into television.
+
+

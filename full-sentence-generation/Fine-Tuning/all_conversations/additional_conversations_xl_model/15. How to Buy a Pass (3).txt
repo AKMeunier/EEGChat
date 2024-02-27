@@ -1,0 +1,13 @@
+
+A: I have never bought a bus pass before. Do you know how?
+B: Yes I do. You can buy it from the bus driver.
+A: What kinds of bus passes do they have?
+B: They have day passes, week passes, and month passes.
+A: How much is the monthly pass?
+B: It's 64 dollars, but if you're a student, you can get it for 35 dollars.
+A: Yes. I'm a student. I think I'll get the monthly pass.
+B: Since you'll be getting the student discount, you need to show your student I.D.
+A: Alright. Thank you for your help.
+B: No problem. Anytime!
+
+

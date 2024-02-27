@@ -1,0 +1,15 @@
+
+A: Hello, this is Isabel Foster.
+B: Hi, Isabel. Why are you calling? You can just come to my office.
+A: I'm actually not in the office right now.
+B: You aren't? Well, why not? Is everything okay?
+A: Actually everything is not okay. I'm pretty sick.
+B: I'm sorry to hear that.
+A: I'm not going to make it into the office today.
+B: There's no way you can come in, just finish that report?
+A: If I come in, I may give everyone what I have.
+B: Well, what do you have?
+A: I have a really bad stomach flu.
+B: Eww yeah, in that case, stay home.
+
+

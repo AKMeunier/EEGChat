@@ -1,0 +1,15 @@
+
+A: Are you married?
+B: No. I'm divorced.
+A: When did you get divorced?
+B: I got divorced two years ago.
+A: Why did you get divorced?
+B: My wife left me.
+A: Why did she leave you?
+B: She said she didn't love me anymore.
+A: Wow! That's terrible.
+B: Yes, it was.
+A: Why didn't she love you anymore?
+B: She fell in love with my best friend.
+
+

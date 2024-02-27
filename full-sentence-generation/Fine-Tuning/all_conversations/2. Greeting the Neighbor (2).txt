@@ -1,0 +1,15 @@
+
+A: Greetings, neighbor. How's it going?
+B: Hello to you! It's going just fine. Welcome to the neighborhood.
+A: Thank you. How long have you been living here?
+B: It's going to be my tenth year next month.
+A: That's quite some time. Where did you move in from?
+B: I was living in San Diego before I moved here.
+A: That's interesting. Why did you decide to leave San Diego?
+B: I simply felt that it was time for a change.
+A: I see. I've had that feeling before.
+B: why are you moving here.?
+A: Because my new job is in the area.
+B: Well, I'll be seeing you around, my new neighbor.
+
+

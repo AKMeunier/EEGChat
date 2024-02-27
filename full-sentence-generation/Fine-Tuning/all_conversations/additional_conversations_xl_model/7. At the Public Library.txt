@@ -1,0 +1,15 @@
+
+A: Hey, this is a nice library.
+B: It is. I didn't expect this.
+A: It doesn't look like much from the outside.
+B: Didn't you know you can't tell a book by its cover?
+A: That's funny, babe.
+B: Anyway, we're going to need to get new library cards.
+A: I'll go ask about it.
+B: Okay, I'm going to check the place out.
+A: I went ahead and applied for a card. You need to do the same.
+B: I will right now, but look at this exhibit.
+A: Wow, it's beautiful. What is it?
+B: I'm not sure, but I'm going to find out.
+
+

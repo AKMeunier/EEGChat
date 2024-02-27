@@ -1,0 +1,15 @@
+
+A: Good morning. How can I help you?
+B: Good morning to you. Yes. I'd like to file a claim.
+A: Okay, I can help you with that.
+B: All right. What do I need to do?
+A: The easiest way to file a claim is online. You can use our computers for that.
+B: That's wonderful. Do I need to log in?
+A: No, you don't. Our computers are connected directly to the EDD.
+B: But I don't know if I'm eligible for benefits.
+A: The EDD will make that decision. Just fill in the forms as best you can.
+B: Thank you. I'll use the computer here to file the claim right away.
+A: If you have any questions, please don't hesitate to ask.
+B: All right. I will. Thanks once again.
+
+

@@ -1,0 +1,15 @@
+
+A: The first thing you want to do is fasten your seat belt.
+B: Check. What's next?
+A: Check your mirrors and make sure you can see behind you.
+B: Done. Should I put it in reverse, now?
+A: Yes, ease off the brake slowly.
+B: Okay, I need to turn to leave the parking lot.
+A: Make sure there are no pedestrians walking behind you.
+B: Okay, do I turn the steering wheel to the left?
+A: Yes, make sure you are paying attention to the cars.
+B: Will do. Do I put it in drive now?
+A: Yes, but remember have your foot on the brake and then ease it off.
+B: Wow, this seems easy. Let's go out on the street.
+
+

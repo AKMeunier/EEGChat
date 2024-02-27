@@ -1,0 +1,15 @@
+
+A: how's it going?
+B: Same old stuff. What's up?
+A: I'm working on this project. Can you look at it?
+B: Yeah, I'll take a look at it. What is it supposed to be?
+A: It's a presentation on how to increase productivity.
+B: Really? This is your project?
+A: Yes. I came up with an idea, and my boss wants to see it.
+B: That's awesome. Let's see it.
+A: Well, that's it. What do you think?
+B: I really liked the graphics. I think it's a winner.
+A: That's great. I am really nervous.
+B: Don't be. It is very professional, and it's a great idea.
+
+
