@@ -1,7 +1,7 @@
 # EEGChat
 
 ## Publication
-This repository contains code related to the paper "A Conversational Brain-Artificial Intelligence Interface" by Anja Meunier, Michal Robert Zák, Lucas Munz,
+This repository contains code related to the paper "A Conversational Brain-Artificial Intelligence Interface" by Anja Meunier, Michal Robert Žák, Lucas Munz,
 Sofiya Garkot, Manuel Eder, Jiachen Xu, and Moritz Grosse-Wentrup.
 
 ## Setting up
